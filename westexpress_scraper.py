@@ -47,5 +47,5 @@ for i in range(1, 2):
 
     a = scrape_links(url)
 df = pd.DataFrame(trip_data)
-# df.to_csv('csv/makalius.csv', index=False)
+df.to_csv('csv/makalius.csv', index=False)
 print(df)
