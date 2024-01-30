@@ -6,7 +6,7 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 trip_data = []
-for i in range(1, 61):
+for i in range(1, 31):
     url = f'https://www.makalius.lt/paskutine-minute/puslapis/{i}/'
 
     def scrape_links(url):
