@@ -67,7 +67,7 @@ for i in range(1, 31):
                 short_info = short_info_element.text.strip() if short_info_element else None
                 if 'su pusryčiais' in short_info:
                     service = 'Pusryčiai'
-                elif 'viskas įskaičiuota' in short_info:
+                elif 'vViskas įskaičiuota' in short_info:
                     service = 'Viskas įskaičiuota'
                 else:
                     service = None

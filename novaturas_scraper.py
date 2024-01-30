@@ -9,8 +9,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
-
-
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
@@ -38,14 +36,13 @@ for link in web_link:
     description_element = WebDriverWait(driver, 10).until(
         ec.presence_of_element_located((By.CSS_SELECTOR, 'h1.c-PJLV')))
     description = description_element.text
-    # destination_element = driver.find_element(By.CLASS_NAME, 'c-bTjFtG')
-    # destination = destination_element.text if destination_element else None
     destination_element = WebDriverWait(driver, 10).until(
         ec.presence_of_element_located((By.CSS_SELECTOR, '.c-bTjFtG')))
     destination = destination_element.text
     offer_transport_element = WebDriverWait(driver, 10).until(
         ec.presence_of_element_located((By.CSS_SELECTOR, 'li.c-eeCjTt:nth-child(1)')))
     offer_transport = offer_transport_element.text
+    hotel_element =
     # hotel_element = WebDriverWait(driver, 10).until(
     #     ec.presence_of_element_located((By.CSS_SELECTOR, 'div.c-hnbPrw:nth-child(1) > div:nth-child(1)')))
     # if 'c-dPemeR c-lgAqJq c-lgAqJq-eCncRB-isFull-true' in hotel_element:
@@ -60,31 +57,27 @@ for link in web_link:
         date_element = WebDriverWait(driver, 10).until(
             ec.presence_of_element_located((By.CSS_SELECTOR, 'div.c-kQzNuN:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > span:nth-child(2)')))
         date = date_element.text
-
-        # service_element = WebDriverWait(driver, 10).until(
-        #     ec.presence_of_element_located((By.CSS_SELECTOR, 'div.c-kQzNuN:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3)')))
-        # service = service_element.text
-
-        # service_element = WebDriverWait(driver, 10).until(
-        #     ec.presence_of_element_located((By.CSS_SELECTOR, 'c-iljIzD')))
-        # service = service_element.text
-
-        service_element = driver.find_element(By.CLASS_NAME, 'c-iljIzD')
-        service = service_element.text if service_element else None
-
         price_element = driver.find_element(By.CLASS_NAME, 'c-bkJVKH')
         price = price_element.text if price_element else None
+        feeding_element = driver.find_element(By.CLASS_NAME, 'c-kQzNuN').text
+        if 'Pusryčiai ir vakarienė' in feeding_element:
+            feeding = 'Pusryčiai ir vakarienė'
+        elif 'viskas įskaičiuota' in feeding_element:
+            feeding = 'Viskas įskaičiuota'
+        elif 'Pusryčiai' in feeding_element:
+            feeding = 'Pusryčiai'
+        else:
+            feeding = None
         trip_details = {
             'Description': description,
             'Destination': destination,
             'Date': date,
             'Travel Transport': offer_transport,
-            # 'Hotel': offer_feature_hotel,
+            'Stars': hotel_stars,
             'Room': room,
-            'Service': service,
+            'Feeding': feeding,
             'Nights': nights,
             'Price': price,
-            # 'Info': short_info
         }
         trip_details_list.append(trip_details)
     time.sleep(2)

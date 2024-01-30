@@ -30,31 +30,31 @@ for i in range(1, 2):
         soup = BeautifulSoup(response.content, 'html.parser')
         destination = soup.find('li', class_='destination').text.strip()
         description = soup.find('div', class_='nopad section-title-lg').text.strip()
-        date_element = soup.find('div', class_='trip-choice-days-large')
-        if date_element is None:
-            date_element = soup.find('span')
-        date = date_element.text.strip() if date_element else None
-        duration_nights = soup.find('div', class_='trip-choice-departure').text.strip()[0]
-        price = soup.find('span', class_='trip-choice-table-price-total').text.strip().replace('€', '')
-        meal_info_element = soup.find('li', class_='meal')
-        if meal_info_element is None:
-            meal_element = soup.find('span')
-        meal = meal_element.text.strip() if meal_element else None
-        hotel_rating = soup.find('div', class_='h2').text.strip()[0]
-
+        date_element = soup.find_all('div', class_='nopad trip-choice-table-body-column trip-choice-column-single')
+        print(date_element)
+        # if date_element is None:
+        #     date_element = soup.find('span')
+        # date = date_element.text.strip() if date_element else None
+        # duration_nights = soup.find('div', class_='trip-choice-departure').text.strip()[0]
+        # price = soup.find('span', class_='trip-choice-table-price-total').text.strip().replace('€', '')
+        # meal_info_element = soup.find('li', class_='meal')
+        # if meal_info_element is None:
+        #     meal_element = soup.find('span')
+        # meal = meal_element.text.strip() if meal_element else None
+        # hotel_rating = soup.find('div', class_='h2').text.strip()[0]
         trip_details = {
-            'Description': description,
-            'Destination': destination,
-            'Price': price,
-            'Length': duration_nights,
-            'Date': date,
-            'Meal': meal,
-            'Hotel Rating': hotel_rating
-        }
+                'Description': description,
+                'Destination': destination,
+                # 'Price': price,
+                # 'Length': duration_nights,
+                # 'Date': date,
+                # 'Meal': meal,
+                # 'Hotel Rating': hotel_rating
+            }
         trip_details_list.append(trip_details)
         return trip_details_list
 
     a = scrape_links(url)
 df = pd.DataFrame(trip_data)
-# df.to_csv('csv/westexpress.csv', index=False)
+df.to_csv('csv/westexpress.csv', index=False)
 print(df)
