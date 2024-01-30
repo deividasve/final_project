@@ -42,12 +42,12 @@ for link in web_link:
     offer_transport_element = WebDriverWait(driver, 10).until(
         ec.presence_of_element_located((By.CSS_SELECTOR, 'li.c-eeCjTt:nth-child(1)')))
     offer_transport = offer_transport_element.text
-    hotel_element =
-    # hotel_element = WebDriverWait(driver, 10).until(
-    #     ec.presence_of_element_located((By.CSS_SELECTOR, 'div.c-hnbPrw:nth-child(1) > div:nth-child(1)')))
-    # if 'c-dPemeR c-lgAqJq c-lgAqJq-eCncRB-isFull-true' in hotel_element:
-    #     hotel = 5
-    # hotel = offer_feature_hotel_element.text if offer_feature_hotel_element else None
+    hotel_stars = len(driver.find_elements(By.XPATH, "//svg[@class='c-dPemeR c-lgAqJq c-lgAqJq-eCncRB-isFull-true']"))
+    print(hotel_stars)
+
+
+
+
     offer_elements = driver.find_elements(By.CLASS_NAME, 'c-kQzNuN')
     for offer_element in offer_elements:
         room_element = driver.find_element(By.CLASS_NAME, 'c-juEpcc')
@@ -73,7 +73,7 @@ for link in web_link:
             'Destination': destination,
             'Date': date,
             'Travel Transport': offer_transport,
-            'Stars': hotel_stars,
+            'Hotel Stars': hotel_stars,
             'Room': room,
             'Feeding': feeding,
             'Nights': nights,

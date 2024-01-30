@@ -66,19 +66,19 @@ for i in range(1, 31):
                 short_info_element = deal.find('span', class_='offers-description')
                 short_info = short_info_element.text.strip() if short_info_element else None
                 if 'su pusryčiais' in short_info:
-                    service = 'Pusryčiai'
-                elif 'vViskas įskaičiuota' in short_info:
-                    service = 'Viskas įskaičiuota'
+                    feeding = 'Pusryčiai'
+                elif 'viskas įskaičiuota' in short_info:
+                    feeding = 'Viskas įskaičiuota'
                 else:
-                    service = None
+                    feeding = None
                 trip_details = {
                     'Description': description,
                     'Destination': destination,
                     'Date': date,
                     'Travel Transport': offer_transport,
-                    'Hotel': offer_feature_hotel,
+                    'Hotel Stars': offer_feature_hotel,
                     'Nights': duration_nights,
-                    'Service': service,
+                    'Feeding': feeding,
                     'Price': price,
                     'Info': short_info
                 }
