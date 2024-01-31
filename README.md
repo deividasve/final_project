@@ -26,5 +26,8 @@ Getting data from URL https://www.novaturas.lt/paskutine-minute
 WestExpress_scraper.py
 Getting data from URL https://www.westexpress.lt/paskutine-minute?page=1
 
-Analize.py
+deals_comparison.py
+Merging all csv file data into one csv file deals_comparison.csv
+
+analysis.py
 This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
