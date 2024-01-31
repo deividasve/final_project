@@ -56,49 +56,50 @@ for link in web_link:
 
 
     offer_elements = trimmed_soup.find_elements(By.CLASS_NAME, 'trip-choice-table-row')
-    for offer_element in offer_elements:
-        try:
-            date_element = offer_element.find_element(By.CLASS_NAME, 'trip-choice-days-large')
-            date = date_element.text.split(' → ')[0].replace(' ', '-') if date_element else None
-        except NoSuchElementException:
-            date = None
-        # try:
-        #     room_element = offer_element.find_element(By.CLASS_NAME, 'room')
-        #     room = room_element.text.split('\n') if room_element else None
-        # except NoSuchElementException:
-        #     room = None
-        # try:
-        #     feeding_element = offer_element.find_element(By.CLASS_NAME, 'meal')
-        #     feeding = feeding_element.text.split('\n') if feeding_element else None
-        # except NoSuchElementException:
-        #     feeding = None
-        # try:
-        #     nights_element = offer_element.find_element(By.CLASS_NAME, 'trip-choice-departure')
-        #     nights = nights_element.text[0] if nights_element else None
-        # except NoSuchElementException:
-        #     nights = None
-        # try:
-        #     price_element = offer_element.find_element(By.CLASS_NAME, 'trip-choice-table-price-total')
-        #     price = price_element.text.replace('€', '') if price_element else None
-        # except NoSuchElementException:
-        #     price = None
-        trip_details = {
-            'Description': description,
-            'Destination': destination,
-            'Date': date,
-            'Hotel Stars': hotel_stars,
-            # 'Room': room,
-            # 'Feeding': feeding,
-            # 'Nights': nights,
-            # 'Price': price
-        }
-        trip_details_list.append(trip_details)
-        rows_count += 1
-        if rows_count % save_interval == 0:
-            df = pd.DataFrame(trip_details_list)
-            df.to_csv('csv/westexpress.csv', index=False)
-            print('Additional data has been added to .csv')
-        time.sleep(5)
+    print(offer_elements)
+    # for offer_element in offer_elements:
+    #     try:
+    #         date_element = offer_element.find_element(By.CLASS_NAME, 'trip-choice-days-large')
+    #         date = date_element.text.split(' → ')[0].replace(' ', '-') if date_element else None
+    #     except NoSuchElementException:
+    #         date = None
+    #     # try:
+    #     #     room_element = offer_element.find_element(By.CLASS_NAME, 'room')
+    #     #     room = room_element.text.split('\n') if room_element else None
+    #     # except NoSuchElementException:
+    #     #     room = None
+    #     # try:
+    #     #     feeding_element = offer_element.find_element(By.CLASS_NAME, 'meal')
+    #     #     feeding = feeding_element.text.split('\n') if feeding_element else None
+    #     # except NoSuchElementException:
+    #     #     feeding = None
+    #     # try:
+    #     #     nights_element = offer_element.find_element(By.CLASS_NAME, 'trip-choice-departure')
+    #     #     nights = nights_element.text[0] if nights_element else None
+    #     # except NoSuchElementException:
+    #     #     nights = None
+    #     # try:
+    #     #     price_element = offer_element.find_element(By.CLASS_NAME, 'trip-choice-table-price-total')
+    #     #     price = price_element.text.replace('€', '') if price_element else None
+    #     # except NoSuchElementException:
+    #     #     price = None
+    #     trip_details = {
+    #         'Description': description,
+    #         'Destination': destination,
+    #         'Date': date,
+    #         'Hotel Stars': hotel_stars,
+    #         # 'Room': room,
+    #         # 'Feeding': feeding,
+    #         # 'Nights': nights,
+    #         # 'Price': price
+    #     }
+    #     trip_details_list.append(trip_details)
+    #     rows_count += 1
+    #     if rows_count % save_interval == 0:
+    #         df = pd.DataFrame(trip_details_list)
+    #         df.to_csv('csv/westexpress.csv', index=False)
+    #         print('Additional data has been added to .csv')
+    #     time.sleep(5)
     df = pd.DataFrame(trip_details_list)
     df.to_csv('csv/westexpress.csv', index=False)
     print(df)

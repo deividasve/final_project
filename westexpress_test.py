@@ -51,11 +51,12 @@ hotel_stars_element = WebDriverWait(driver, 10).until(ec.presence_of_element_loc
 hotel_stars = hotel_stars_element.text[0]
 # offer_elements = driver.find_elements(By.CLASS_NAME, 'trip-choice-table-row')
 html_code = driver.page_source
+# print(html_code)
 soup = BeautifulSoup(html_code, 'html.parser')
-trimmed_soup = soup.find('div', class_='package_filter_content')
+trimmed_soup = soup.find('div', class_='small-12 columns nopad trip-choice-table-body')
+# print(trimmed_soup)
 
-
-
+# offer_elements = driver.find_elements(By.CLASS_NAME, 'trip-choice-table-row')
 offer_elements = trimmed_soup.find_element(By.CLASS_NAME, 'trip-choice-table-row')
 for offer_element in offer_elements:
     try:
@@ -65,7 +66,8 @@ for offer_element in offer_elements:
         date = None
     try:
         room_element = offer_element.find_element(By.CLASS_NAME, 'room')
-        room = room_element.text.split('\n')[1] if room_element else None
+        # room = room_element.text.split('\n')[1] if room_element else None
+        room = room_element.text.split('\n') if room_element else None
     except NoSuchElementException:
         room = None
     try:
