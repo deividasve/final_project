@@ -27,7 +27,13 @@ deals_comparison.py
 Merging all csv file data into one csv file deals_comparison.csv. This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
 
 ## Results
+
+Function price_avg_per_provider() provides this graph:
 ![image](https://github.com/deividasve/final_project/assets/156001818/4cc1fbf4-ac44-4c61-b302-31d9e56cc0d4)
 
+Function price_avg_per_country() provides this graph:
+![image](https://github.com/deividasve/final_project/assets/156001818/b7a4453e-aa05-4c5c-97ff-496657543baa)
+
+Function grouped_egypt_by_season_and_provider() provides this graph:
 
 ## Conclusion
