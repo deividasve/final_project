@@ -1,4 +1,4 @@
-# TRAVEL SITE (Makalius, Novaturas, WestExpress) LAST MINUTE DEALS ANALYSIS
+# TRAVEL SITE (Makalius, Novaturas) LAST MINUTE DEALS ANALYSIS
 
 ## Details
 Created by: Deividas Verbickas and Justė Petrėnė
@@ -12,18 +12,18 @@ The main goal of the project is to find out the price differences by different l
 In this project we used Python and CSV files showcasing our practical coding skills acquired at Vilnius Coding School.
 
 ## Applied knowledge:
-Used libraries: Pandas, MatplotLib, SeaBorn, Selenium
+Used libraries: BeautifulSoup, Pandas, MatplotLib, SeaBorn, Selenium
 
 makalius_scraper.py
-Getting data from URL ("'https://www.makalius.lt/paskutine-minute/puslapis/{i}/").
+
+Getting data from URL: https://www.makalius.lt/paskutine-minute
 
 novaturas_scraper.py
-Getting data from URL https://www.novaturas.lt/paskutine-minute
 
-westexpress_scraper.py
-Getting data from URL https://www.westexpress.lt/paskutine-minute?page={i}
+Getting data from URL: https://www.novaturas.lt/paskutine-minute
 
 deals_comparison.py
+
 Merging all csv file data into one csv file deals_comparison.csv. This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
 
 ## Results
