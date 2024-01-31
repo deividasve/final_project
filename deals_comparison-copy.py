@@ -10,7 +10,7 @@ pd.set_option('display.width', 500)
 df1 = pd.read_csv('csv/makalius.csv')
 df1['Provider'] = 'Makalius'
 
-# Specifying 'Destination' column
+# Specifying 'Destination' column from Makalius DataFrame
 df1['Destination'] = (df1['Destination'].str.replace('Saremos sala', 'Estija, Saremos sala')
   .str.replace('Pažintinis Egiptas', 'Egiptas').str.replace('Kruizas „MSC Orchestra“', 'Viduržemio jūra')
   .str.replace('Karibų kruizas su „MSC Seascape”', 'Karibų jūra').str.replace('Dubajus', 'JAE, Dubajus')
@@ -42,32 +42,77 @@ df['Hotel Stars'] = pd.to_numeric(df['Hotel Stars'])
 df.to_csv('csv/deals_comparison-copy.csv', index=False)
 
 # Grouping Price averages by Providers
-price_avg_per_provider = df.groupby('Provider')['Price'].mean()
+# price_avg_per_provider = df.groupby('Provider')['Price'].mean()
 
 # Creating barplot for Average price by Provider
-plt.figure(figsize=(12, 8))
-price_avg_per_provider.plot(kind='bar')
-plt.title('Last minute average trip price by Provider')
-plt.xlabel('Provider')
-plt.ylabel('Price average')
+# plt.figure(figsize=(12, 8))
+# price_avg_per_provider.plot(kind='bar')
+# plt.title('Last minute average trip price by Provider')
+# plt.xlabel('Provider')
+# plt.ylabel('Price average')
 # plt.show()
 
 # Grouping Price averages by Countries
-price_avg_per_country = df.groupby('Country')['Price'].mean()
+# price_avg_per_country = df.groupby('Country')['Price'].mean()
+# print(price_avg_per_country)
 
 # Creating barplot for Average price by Country
-plt.figure(figsize=(12, 8))
-price_avg_per_country.plot(kind='bar')
-plt.title('Last minute average trip price by Country')
-plt.xlabel('Country')
-plt.ylabel('Price average')
+# plt.figure(figsize=(12, 8))
+# price_avg_per_country.plot(kind='bar')
+# plt.title('Last minute average trip price by Country')
+# plt.xlabel('Country')
+# plt.ylabel('Price average')
 # plt.show()
 
-isfiltruotas_df_egiptas = df[df['Country'] == 'Egiptas']
-grouped_egypt_by_season = isfiltruotas_df_egiptas.groupby(df['Season'])['Price']
-plt.figure(figsize=(12, 8))
-grouped_egypt_by_season.plot(kind='line')
-plt.title('Last minute price for Egypt by Season')
-plt.xlabel('Price')
-plt.ylabel('Season')
+
+# isfiltruotas_df_egiptas = df[df['Country'] == 'Egiptas']
+# grouped_egypt_by_season = isfiltruotas_df_egiptas.groupby(df['Season'])['Price']
+# plt.figure(figsize=(12, 8))
+# grouped_egypt_by_season.plot(kind='line')
+# plt.title('Last minute price for Egypt by Season')
+# plt.xlabel('Price')
+# plt.ylabel('Season')
+# plt.show()
+
+
+""""
+1. Average Price by Provider Grouped by Country
+bar diagram
+
+2. Seasonal Average Price by Provider Grouped by Country
+bar diagram
+
+3. Count of Deals per Hotel Rating by Provider
+
+4. Count of Stays by Provider
+pie chart
+
+5. Average Price per Stays by Provider
+
+6. Average Price per Hotel Rating by Provider
+bar diagram
+
+7. The most popular Countries by Provider's Deals Count
+Linear diagram
+
+8. Percentange of Different Country Coverage by Provider
+Pie/donut chart
+
+9. Showcase Country Location Pins on Map by Provider
+map python
+
+10. Average Price per Season by Provider
+or Months
+
+
+
+
+ziuret notes paskaitu: 20, 22, 23, 25, 34, 35, 36
+"""
+
+# plt.figure(figsize=(15, 8))
+# sns.barplot(x='Country', y='Price average', hue='Country', data=price_avg_per_country, dodge=False)
+# plt.title('Last minute average trip price by Country')
+# plt.xlabel('Country')
+# plt.ylabel('Average Price')
 # plt.show()
