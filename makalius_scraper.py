@@ -6,7 +6,7 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 trip_data = []
-for i in range(1, 31):
+for i in range(1, 11):
     url = f'https://www.makalius.lt/paskutine-minute/puslapis/{i}/'
 
     def scrape_links(url):
@@ -69,6 +69,10 @@ for i in range(1, 31):
                     feeding = 'Pusryčiai'
                 elif 'viskas įskaičiuota' in short_info:
                     feeding = 'Viskas įskaičiuota'
+                elif 'pusryčiais ir vakarienėmis' in short_info:
+                    feeding = 'Pusryčiai ir vakarienė'
+                elif 'su pilnu maitinimu' in short_info:
+                    feeding = 'Pusryčiai, pietūs, vakarienė'
                 else:
                     feeding = None
                 trip_details = {
