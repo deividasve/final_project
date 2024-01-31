@@ -7,12 +7,12 @@ This is the end project in Vilnius Coding School
 
 ## Project theme: Last minute travel deal data analysis and visualization
 
-The main goal of the project is to find out the 
+The main goal of the project is to find out the price differences by different last minute travel providers.
 
-In this project we used Python, CSV files, and a PostgreSQL database showcasing our practical coding skills acquired at Vilnius Coding School.
+In this project we used Python and CSV files showcasing our practical coding skills acquired at Vilnius Coding School.
 
 ## Applied knowledge:
-Used libraries: Pandas, MatplotLib, SeaBorn, Selenium, SciPy
+Used libraries: Pandas, MatplotLib, SeaBorn, Selenium
 
 makalius_scraper.py
 Getting data from URL ("'https://www.makalius.lt/paskutine-minute/puslapis/{i}/").
@@ -20,7 +20,7 @@ Getting data from URL ("'https://www.makalius.lt/paskutine-minute/puslapis/{i}/"
 novaturas_scraper.py
 Getting data from URL https://www.novaturas.lt/paskutine-minute
 
-WestExpress_scraper.py
+westexpress_scraper.py
 Getting data from URL https://www.westexpress.lt/paskutine-minute?page={i}
 
 deals_comparison.py
@@ -37,3 +37,5 @@ Function price_avg_per_country() provides this graph:
 Function grouped_egypt_by_season_and_provider() provides this graph:
 
 ## Conclusion
+
+
