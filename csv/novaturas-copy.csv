@@ -1,8 +1,8 @@
 Description,Destination,Date,Travel Transport,Hotel Stars,Room,Feeding,Nights,Price
-"Varšuva ir didžiausias Europoje vandens atrakcionų parkas ""Suntago""",Lenkija,2024-02-16,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Pusryčiai,1,152.15
-"Varšuva ir didžiausias Europoje vandens atrakcionų parkas ""Suntago""",Lenkija,2024-02-16,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Pusryčiai,1,152.15
-Slidinėjimas Slovakijoje – Žemuosiuose Tatruose,Slovakija,2024-02-14,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Pusryčiai,4,364.65
-Slidinėjimas Slovakijoje – Žemuosiuose Tatruose,Slovakija,2024-02-14,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Pusryčiai,4,364.65
+"Varšuva ir didžiausias Europoje vandens atrakcionų parkas ""Suntago""",Lenkija,2024-02-16,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Viskas įskaičiuota,1,152.15
+"Varšuva ir didžiausias Europoje vandens atrakcionų parkas ""Suntago""",Lenkija,2024-02-16,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Viskas įskaičiuota,1,152.15
+Slidinėjimas Slovakijoje – Žemuosiuose Tatruose,Slovakija,2024-02-14,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Viskas įskaičiuota,4,364.65
+Slidinėjimas Slovakijoje – Žemuosiuose Tatruose,Slovakija,2024-02-14,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Viskas įskaičiuota,4,364.65
 Sun & Sea Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,415.00
 Sun & Sea Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,7,475.00
 Sun & Sea Hotel,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,7,525.00
@@ -28,17 +28,17 @@ Minamark Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu
 Minamark Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,7,535.00
 Minamark Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,7,585.00
 Minamark Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Superior tipo kambarys,Viskas įskaičiuota,7,609.00
-Venecijos karnavalo romantika,Italija,2024-02-07,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Pusryčiai ir vakarienė,4,441.15
-Venecijos karnavalo romantika,Italija,2024-02-07,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Pusryčiai ir vakarienė,4,441.15
+Venecijos karnavalo romantika,Italija,2024-02-07,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Viskas įskaičiuota,4,441.15
+Venecijos karnavalo romantika,Italija,2024-02-07,Kelionė autobusu,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Viskas įskaičiuota,4,441.15
 Royal Lagoons Aqua Park Resort & SPA,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,445.00
 Royal Lagoons Aqua Park Resort & SPA,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,459.00
 Royal Lagoons Aqua Park Resort & SPA,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,479.00
 Royal Lagoons Aqua Park Resort & SPA,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,549.00
 Royal Lagoons Aqua Park Resort & SPA,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,7,589.00
-Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,449.00
+Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,449.00
 Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,455.00
-Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Promo kambarys,Pusryčiai ir vakarienė,3,469.00
-Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Superior Sea View tipo kambarys,Pusryčiai ir vakarienė,3,479.00
+Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Promo kambarys,Viskas įskaičiuota,3,469.00
+Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,479.00
 Bella Vista Hotel & Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,3.0,Promo kambarys,Viskas įskaičiuota,3,485.00
 Blend Club Aqua Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,449.00
 Blend Club Aqua Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,455.00
@@ -118,8 +118,8 @@ Gravity Hotel & Aqua ParkHurghada (ex. Samra Bay),"Hurgada., Hurgada, Egiptas",2
 Jasmine Palace Resort & Spa,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,469.00
 Jasmine Palace Resort & Spa,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,475.00
 Jasmine Palace Resort & Spa,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,485.00
-Jasmine Palace Resort & Spa,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,499.00
 Jasmine Palace Resort & Spa,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,499.00
+Jasmine Palace Resort & Spa,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,499.00
 Titanic Beach Spa & Aqua Park,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,3,469.00
 Titanic Beach Spa & Aqua Park,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,535.00
 Titanic Beach Spa & Aqua Park,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,629.00
@@ -173,8 +173,8 @@ Old Palace Sahl Hasheesh,"Sal Hašišas, Hurgada, Egiptas",2024-02-03,Skrydis su
 Serenity Fun City,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,3,489.00
 Serenity Fun City,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,3,519.00
 Serenity Fun City,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,3,535.00
-Serenity Fun City,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,3,649.00
 Serenity Fun City,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,7,649.00
+Serenity Fun City,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,3,649.00
 Sunrise Aqua Joy Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Garden or Pool View tipo kambarys,Viskas įskaičiuota,3,489.00
 Sunrise Aqua Joy Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Side Sea View tipo kambarys,Viskas įskaičiuota,3,499.00
 Sunrise Aqua Joy Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,505.00
@@ -189,22 +189,22 @@ Amarina Abu Soma Resort & Aqua Park,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,S
 Amarina Abu Soma Resort & Aqua Park,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,505.00
 Amarina Abu Soma Resort & Aqua Park,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,509.00
 Amarina Abu Soma Resort & Aqua Park,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,515.00
-Amarina Abu Soma Resort & Aqua Park,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,545.00
+Amarina Abu Soma Resort & Aqua Park,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,545.00
 Arabella Azur Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,495.00
 Arabella Azur Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,509.00
 Arabella Azur Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,665.00
 Arabella Azur Resort,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,686.00
 Arabella Azur Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,695.00
-Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,3,495.00
-Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Terrace tipo kambarys,Pusryčiai,3,509.00
-Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Lagoon tipo kambarys,Pusryčiai,3,529.00
-Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Lagoon Terrace tipo kambarys,Pusryčiai,3,545.00
-Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,555.00
-Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,3,495.00
-Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Pusryčiai ir vakarienė,3,509.00
+Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,495.00
+Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Terrace tipo kambarys,Viskas įskaičiuota,3,509.00
+Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Lagoon tipo kambarys,Viskas įskaičiuota,3,529.00
+Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Lagoon Terrace tipo kambarys,Viskas įskaičiuota,3,545.00
+Cook's Club El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,555.00
+Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,495.00
 Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,509.00
+Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,3,509.00
 Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,3,529.00
-Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,665.00
+Marriott Hurghada Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,665.00
 Pickalbatros Alf Leila Wa Leila by Neverland,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,495.00
 Pickalbatros Alf Leila Wa Leila by Neverland,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,509.00
 Pickalbatros Alf Leila Wa Leila by Neverland,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Family Room with Sliding Doors tipo kambarys,Viskas įskaičiuota,3,525.00
@@ -220,15 +220,15 @@ Stella Beach Resort & Spa (ex. Stella Di Mare Beach Resort & Spa),"Makadi Bėjus
 Stella Beach Resort & Spa (ex. Stella Di Mare Beach Resort & Spa),"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Side Sea View tipo kambarys,Viskas įskaičiuota,3,545.00
 Stella Beach Resort & Spa (ex. Stella Di Mare Beach Resort & Spa),"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Garden View tipo kambarys,Viskas įskaičiuota,3,545.00
 Stella Beach Resort & Spa (ex. Stella Di Mare Beach Resort & Spa),"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,3,555.00
-Pickalbatros Aqua Blu Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,499.00
-Pickalbatros Aqua Blu Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,519.00
-Pickalbatros Aqua Blu Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Family Garden View tipo kambarys,Viskas įskaičiuota,3,549.00
-Pickalbatros Aqua Blu Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Family Pool View tipo kambarys,Viskas įskaičiuota,3,565.00
-Pickalbatros Aqua Blu Resort,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,635.00
+,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,499.00
+,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,519.00
+,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Family Garden View tipo kambarys,Viskas įskaičiuota,3,549.00
+,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Family Pool View tipo kambarys,Viskas įskaičiuota,3,565.00
+,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,635.00
 Sindbad Club Aqua Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,499.00
 Sindbad Club Aqua Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,499.00
-Sindbad Club Aqua Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,3,505.00
 Sindbad Club Aqua Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,3,505.00
+Sindbad Club Aqua Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,3,505.00
 Sindbad Club Aqua Hotel,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Family tipo kambarys,Viskas įskaičiuota,3,519.00
 El Karma Aqua Beach Resort (ex.Nubia Aqua Beach Resort),"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,505.00
 El Karma Aqua Beach Resort (ex.Nubia Aqua Beach Resort),"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,509.00
@@ -300,11 +300,11 @@ The V Luxury Resort,"Sal Hašišas, Hurgada, Egiptas",2024-02-03,Skrydis su baga
 The V Luxury Resort,"Sal Hašišas, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Garden or Pool View tipo kambarys,Viskas įskaičiuota,3,549.00
 The V Luxury Resort,"Sal Hašišas, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,3,559.00
 The V Luxury Resort,"Sal Hašišas, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Swim-Up tipo kambarys,Viskas įskaičiuota,3,609.00
-Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Pusryčiai ir vakarienė,3,529.00
+Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Viskas įskaičiuota,3,529.00
 Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Viskas įskaičiuota,3,595.00
-Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Pusryčiai ir vakarienė,4,730.00
-Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Pusryčiai ir vakarienė,7,739.00
-Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Pusryčiai ir vakarienė,3,779.00
+Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Viskas įskaičiuota,4,730.00
+Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Viskas įskaičiuota,7,739.00
+Steigenberger Makadi,"Madinat Makadis, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Viskas įskaičiuota,3,779.00
 Sultan Bey Hotel El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,529.00
 Sultan Bey Hotel El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,569.00
 Sultan Bey Hotel El Gouna,"El Guna, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,736.00
@@ -339,7 +339,7 @@ Jaz Aquaviva,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5
 Jaz Aquaviva,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Deluxe Garden View tipo kambarys,Viskas įskaičiuota,3,549.00
 Jaz Aquaviva,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,559.00
 Jaz Aquaviva,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Bay View tipo kambarys,Viskas įskaičiuota,3,559.00
-Jaz Aquaviva,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Family Garden View tipo kambarys,Viskas įskaičiuota,3,559.00
+Jaz Aquaviva,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Deluxe Bay View tipo kambarys,Viskas įskaičiuota,3,559.00
 Pickalbatros Albatros White Beach,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,3,545.00
 Pickalbatros Albatros White Beach,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Side Sea View tipo kambarys,Viskas įskaičiuota,3,559.00
 Pickalbatros Albatros White Beach,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,3,575.00
@@ -355,20 +355,20 @@ Prima Life Makadi Resort & Spa,"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skry
 Prima Life Makadi Resort & Spa,"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,579.00
 Prima Life Makadi Resort & Spa,"Makadi Bėjus, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,4,760.00
 Prima Life Makadi Resort & Spa,"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,789.00
-Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai,3,555.00
-Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,3,589.00
-Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai,3,615.00
-Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai ir vakarienė,3,625.00
-Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,3,659.00
-Labranda Club Paradisio El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,559.00
-Labranda Club Paradisio El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,595.00
-Labranda Club Paradisio El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,605.00
-Labranda Club Paradisio El Gouna,"El Guna, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,770.00
-Labranda Club Paradisio El Gouna,"El Guna, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,809.00
-Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Classic Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,3,559.00
+Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,555.00
+Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,589.00
+Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,615.00
+Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,625.00
+Steigenberger Golf Resort El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,659.00
+,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,559.00
+,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,595.00
+,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,605.00
+,"El Guna, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,770.00
+,"El Guna, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,809.00
+Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Classic Standard Garden View tipo kambarys,Viskas įskaičiuota,3,559.00
 Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Classic Standard Garden View tipo kambarys,Viskas įskaičiuota,3,595.00
-Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Room Lagoon View tipo kambarys,Pusryčiai ir vakarienė,3,629.00
-Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Pusryčiai ir vakarienė,3,659.00
+Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Room Lagoon View tipo kambarys,Viskas įskaičiuota,3,629.00
+Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,3,659.00
 Movenpick Resort & Spa El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Room Lagoon View tipo kambarys,Viskas įskaičiuota,3,659.00
 Jaz Makadi Saraya Resort,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,565.00
 Jaz Makadi Saraya Resort,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,589.00
@@ -376,8 +376,8 @@ Jaz Makadi Saraya Resort,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis 
 Jaz Makadi Saraya Resort,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Family Garden View tipo kambarys,Viskas įskaičiuota,3,599.00
 Jaz Makadi Saraya Resort,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Family Pool View tipo kambarys,Viskas įskaičiuota,3,599.00
 Jaz Makadi Oasis Resort & Club,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,569.00
-Jaz Makadi Oasis Resort & Club,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Family Garden View tipo kambarys,Viskas įskaičiuota,3,589.00
 Jaz Makadi Oasis Resort & Club,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,589.00
+Jaz Makadi Oasis Resort & Club,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Family Garden View tipo kambarys,Viskas įskaičiuota,3,589.00
 Jaz Makadi Oasis Resort & Club,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Family Pool View tipo kambarys,Viskas įskaičiuota,3,615.00
 Jaz Makadi Oasis Resort & Club,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Family Garden View tipo kambarys,Viskas įskaičiuota,3,679.00
 Pickalbatros Blu SPA,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,3,575.00
@@ -440,46 +440,46 @@ Sunrise Tucana Resort - Grand Select,"Makadi Bėjus, Hurgada, Egiptas",2024-02-0
 Sunrise Tucana Resort - Grand Select,"Makadi Bėjus, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,899.00
 Sunrise Tucana Resort - Grand Select,"Makadi Bėjus, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Deluxe Garden or Pool View tipo kambarys,Viskas įskaičiuota,4,906.00
 Sunrise Tucana Resort - Grand Select,"Makadi Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Lexi Suite Pool View tipo kambarys,Viskas įskaičiuota,3,939.00
-Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Resort View tipo kambarys,Pusryčiai ir vakarienė,3,675.00
-Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Side Sea View tipo kambarys,Pusryčiai ir vakarienė,3,719.00
-Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,3,759.00
-Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Resort View tipo kambarys,"Pusryčiai, pietūs, vakarienė",3,779.00
-Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Side Sea View tipo kambarys,"Pusryčiai, pietūs, vakarienė",3,825.00
+Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Resort View tipo kambarys,Viskas įskaičiuota,3,675.00
+Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Side Sea View tipo kambarys,Viskas įskaičiuota,3,719.00
+Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,759.00
+Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Resort View tipo kambarys,Viskas įskaičiuota,3,779.00
+Kempinski Hotel Soma Bay,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Side Sea View tipo kambarys,Viskas įskaičiuota,3,825.00
 Sunrise Crystal Bay Resort -Grand Select-,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,675.00
 Sunrise Crystal Bay Resort -Grand Select-,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Swim-Up tipo kambarys,Viskas įskaičiuota,3,685.00
 Sunrise Crystal Bay Resort -Grand Select-,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Swim-Up Suite tipo kambarys,Viskas įskaičiuota,3,849.00
 Sunrise Crystal Bay Resort -Grand Select-,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Deluxe Garden View tipo kambarys,Viskas įskaičiuota,4,850.00
 Sunrise Crystal Bay Resort -Grand Select-,"Hurgada., Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Deluxe Garden View tipo kambarys,Viskas įskaičiuota,3,865.00
-Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,3,685.00
-Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai,3,719.00
-Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Premium Roof Terrace tipo kambarys,Pusryčiai,3,739.00
-Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Pusryčiai,3,755.00
-Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Suite Standard tipo kambarys,Pusryčiai,3,789.00
-Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,695.00
-Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Pusryčiai,3,695.00
-Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Pusryčiai ir vakarienė,3,705.00
+Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,3,685.00
+Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,719.00
+Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Premium Roof Terrace tipo kambarys,Viskas įskaičiuota,3,739.00
+Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Viskas įskaičiuota,3,755.00
+Casa Cook El Gouna,"El Guna, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Suite Standard tipo kambarys,Viskas įskaičiuota,3,789.00
+Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Viskas įskaičiuota,3,695.00
+Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,695.00
 Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,705.00
-Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,3,705.00
-Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Pusryčiai,3,695.00
-Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,695.00
+Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,705.00
+Falcon Hills,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Viskas įskaičiuota,3,705.00
+Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Viskas įskaičiuota,3,695.00
+Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,695.00
 Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,705.00
-Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,3,705.00
-Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Pusryčiai ir vakarienė,3,705.00
-Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,3,695.00
+Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,705.00
+Falcon Naama Star,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Promo kambarys,Viskas įskaičiuota,3,705.00
+Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,695.00
 Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,699.00
 Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,705.00
-Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Pusryčiai ir vakarienė,3,705.00
-Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,7,855.00
-Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,4,695.00
-Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,4,749.00
-Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1125.00
-Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1219.00
-Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,1,1535.00
-Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Pusryčiai,3,699.00
-Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Pusryčiai ir vakarienė,3,705.00
+Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,705.00
+Verginia Sharm Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,7,855.00
+Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,695.00
+Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,749.00
+Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1125.00
+Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1219.00
+Zentral Center,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,1535.00
+Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,699.00
+Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,705.00
 Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,709.00
-Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Family 1 Bedroom tipo kambarys,Pusryčiai,3,735.00
-Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Family 1 Bedroom tipo kambarys,Pusryčiai ir vakarienė,3,739.00
+Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Family 1 Bedroom tipo kambarys,Viskas įskaičiuota,3,735.00
+Dive Inn Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Family 1 Bedroom tipo kambarys,Viskas įskaičiuota,3,739.00
 Iberotel Makadi Beach,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,699.00
 Iberotel Makadi Beach,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,725.00
 Iberotel Makadi Beach,"Madinat Makadis, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Viskas įskaičiuota,3,755.00
@@ -490,11 +490,11 @@ Sunrise Royal Makadi Aqua Resort -Select-,"Makadi Bėjus, Hurgada, Egiptas",2024
 Sunrise Royal Makadi Aqua Resort -Select-,"Makadi Bėjus, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Family Suite Garden View tipo kambarys,Viskas įskaičiuota,4,976.00
 Sunrise Royal Makadi Aqua Resort -Select-,"Makadi Bėjus, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Family Suite Garden View tipo kambarys,Viskas įskaičiuota,3,989.00
 Sunrise Royal Makadi Aqua Resort -Select-,"Makadi Bėjus, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Family Suite Pool View tipo kambarys,Viskas įskaičiuota,4,996.00
-Turquoise Beach Resort,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,709.00
-Turquoise Beach Resort,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,719.00
-Turquoise Beach Resort,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,3,725.00
-Turquoise Beach Resort,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,735.00
-Turquoise Beach Resort,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,885.00
+,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,709.00
+,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,3,719.00
+,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,725.00
+,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,735.00
+,"Šarm aš Maja, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,7,885.00
 Ivy Cyrene Island,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,715.00
 Ivy Cyrene Island,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,725.00
 Ivy Cyrene Island,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,729.00
@@ -506,8 +506,8 @@ Ivy Cyrene Sharm,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis 
 Ivy Cyrene Sharm,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,7,929.00
 Ivy Cyrene Sharm,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,1,935.00
 Old Vic Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,715.00
-Old Vic Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,725.00
 Old Vic Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,3,725.00
+Old Vic Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,725.00
 Old Vic Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,899.00
 Old Vic Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,7,915.00
 Amphoras Aqua (Ex.Shores Golden Resort),"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,719.00
@@ -550,11 +550,11 @@ Charmillion Sea Life,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skryd
 Charmillion Sea Life,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,765.00
 Charmillion Sea Life,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Beach Front tipo kambarys,Viskas įskaičiuota,3,775.00
 Charmillion Sea Life,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,979.00
-Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,3,739.00
 Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,739.00
-Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,979.00
+Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,3,739.00
 Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,979.00
-Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,1,1015.00
+Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,979.00
+Dreams Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,1,1015.00
 Club Reef Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,3,745.00
 Club Reef Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,759.00
 Club Reef Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,775.00
@@ -580,8 +580,8 @@ Sunrise Garden Beach Resort -Select-,"Hurgada., Hurgada, Egiptas",2024-02-06,Skr
 Sunrise Garden Beach Resort -Select-,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Deluxe Side Sea View tipo kambarys,Viskas įskaičiuota,4,786.00
 Sunrise Garden Beach Resort -Select-,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Superior Garden or Pool View tipo kambarys,Viskas įskaičiuota,7,809.00
 Sunrise Garden Beach Resort -Select-,"Hurgada., Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Family Bunkbed tipo kambarys,Viskas įskaičiuota,4,810.00
-Savaitgalis Paryžiuje,Prancūzija,2024-02-16,Skrydis,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Pusryčiai,3,746.10
-Savaitgalis Paryžiuje,Prancūzija,2024-02-16,Skrydis,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Pusryčiai,3,746.10
+Savaitgalis Paryžiuje,Prancūzija,2024-02-16,Skrydis,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Viskas įskaičiuota,3,746.10
+Savaitgalis Paryžiuje,Prancūzija,2024-02-16,Skrydis,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Viskas įskaičiuota,3,746.10
 Caves Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,749.00
 Caves Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,3,755.00
 Caves Beach Resort,"Hurgada., Hurgada, Egiptas",2024-02-13,Skrydis su bagažu,5.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,4,785.00
@@ -635,18 +635,18 @@ Coral Sea Aqua Club Resort,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18
 Rixos Premium Magawish,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Suite Garden View tipo kambarys,Viskas įskaičiuota,3,765.00
 Rixos Premium Magawish,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Suite Sea View tipo kambarys,Viskas įskaičiuota,3,835.00
 Rixos Premium Magawish,"Hurgada., Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Suite Garden View tipo kambarys,Viskas įskaičiuota,3,1015.00
-Rixos Premium Magawish,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Lagoon Deluxe Suite tipo kambarys,Viskas įskaičiuota,3,1029.00
 Rixos Premium Magawish,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Suite tipo kambarys,Viskas įskaičiuota,3,1029.00
-Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Pusryčiai,3,765.00
-Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Pusryčiai ir vakarienė,3,775.00
+Rixos Premium Magawish,"Hurgada., Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Lagoon Deluxe Suite tipo kambarys,Viskas įskaičiuota,3,1029.00
+Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Viskas įskaičiuota,3,765.00
+Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Viskas įskaičiuota,3,775.00
 Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Viskas įskaičiuota,3,779.00
 Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,779.00
-Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Pusryčiai,7,1015.00
+Renaissance Sharm El Sheikh Golden View Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Viskas įskaičiuota,7,1015.00
 Jaz Makadi Star & Spa,"Madinat Makadis, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Family Garden View tipo kambarys,Viskas įskaičiuota,4,770.00
 Jaz Makadi Star & Spa,"Madinat Makadis, Hurgada, Egiptas",2024-02-06,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,4,770.00
 Jaz Makadi Star & Spa,"Madinat Makadis, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,785.00
-Jaz Makadi Star & Spa,"Madinat Makadis, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,809.00
 Jaz Makadi Star & Spa,"Madinat Makadis, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Family Garden View tipo kambarys,Viskas įskaičiuota,3,809.00
+Jaz Makadi Star & Spa,"Madinat Makadis, Hurgada, Egiptas",2024-02-10,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,809.00
 Sunrise Remal Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Mountain View tipo kambarys,Viskas įskaičiuota,3,775.00
 Sunrise Remal Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Standard Garden or Pool View tipo kambarys,Viskas įskaičiuota,3,779.00
 Sunrise Remal Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Family Bunkbed tipo kambarys,Viskas įskaičiuota,3,795.00
@@ -682,21 +682,21 @@ Steigenberger Resort Ras Soma,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis
 Steigenberger Resort Ras Soma,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Superior Grand Side Sea View tipo kambarys,Viskas įskaičiuota,3,819.00
 Steigenberger Resort Ras Soma,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Family Deluxe tipo kambarys,Viskas įskaičiuota,3,859.00
 Steigenberger Resort Ras Soma,"Soma Bėjus, Hurgada, Egiptas",2024-02-03,Skrydis su bagažu,5.0,Grand Superior Sea View tipo kambarys,Viskas įskaičiuota,3,899.00
-Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,4,795.00
-Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,4,839.00
-Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Pusryčiai,4,845.00
-Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Club Family tipo kambarys,Pusryčiai,4,859.00
-Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Pusryčiai,3,869.00
+Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,795.00
+Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,839.00
+Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Viskas įskaičiuota,4,845.00
+Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Club Family tipo kambarys,Viskas įskaičiuota,4,859.00
+Alua Tenerife ex.Turquesa Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Viskas įskaičiuota,3,869.00
 Barcelo Tiran Sharm,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,795.00
 Barcelo Tiran Sharm,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,809.00
 Barcelo Tiran Sharm,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Beach Front tipo kamabrys,Viskas įskaičiuota,3,819.00
 Barcelo Tiran Sharm,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,829.00
 Barcelo Tiran Sharm,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,845.00
-Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Garden or Pool View 1 Bdr Suite with Terrace t.k.,Pusryčiai,3,795.00
-Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Bedroom Suite with Terrace Golf View tipo kamb.,Pusryčiai,3,819.00
-Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Garden or Pool View 1 Bdr Suite with Terrace t.k.,Pusryčiai ir vakarienė,3,839.00
-Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Bedroom Suite with Terrace Golf View tipo kamb.,Pusryčiai ir vakarienė,3,859.00
-Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Garden or Pool View 1 Bdr Suite with Terrace t.k.,"Pusryčiai, pietūs, vakarienė",3,875.00
+Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Garden or Pool View 1 Bdr Suite with Terrace t.k.,Viskas įskaičiuota,3,795.00
+Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Bedroom Suite with Terrace Golf View tipo kamb.,Viskas įskaičiuota,3,819.00
+Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Garden or Pool View 1 Bdr Suite with Terrace t.k.,Viskas įskaičiuota,3,839.00
+Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Bedroom Suite with Terrace Golf View tipo kamb.,Viskas įskaičiuota,3,859.00
+Gara Suites Golf & Spa,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Garden or Pool View 1 Bdr Suite with Terrace t.k.,Viskas įskaičiuota,3,875.00
 Jaz Belvedere,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,795.00
 Jaz Belvedere,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Family Garden View tipo kambarys,Viskas įskaičiuota,3,829.00
 Jaz Belvedere,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Family Pool View tipo kambarys,Viskas įskaičiuota,3,895.00
@@ -727,11 +727,11 @@ Golf Beach Resort (ex. Jolie Ville Golf & Resort),"Šarks Bėjus, Šarm aš Šei
 Golf Beach Resort (ex. Jolie Ville Golf & Resort),"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,875.00
 Golf Beach Resort (ex. Jolie Ville Golf & Resort),"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Executive tipo kambarys,Viskas įskaičiuota,3,909.00
 Golf Beach Resort (ex. Jolie Ville Golf & Resort),"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,7,1105.00
-Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard without Balcony tipo kambarys,Pusryčiai,4,809.00
-Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard with Balcony tipo kambarys,Pusryčiai,4,829.00
-Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,4,849.00
-Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard without Balcony tipo kambarys,Pusryčiai ir vakarienė,4,865.00
-Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard without Balcony tipo kambarys,Pusryčiai,3,869.00
+Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard without Balcony tipo kambarys,Viskas įskaičiuota,4,809.00
+Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard with Balcony tipo kambarys,Viskas įskaičiuota,4,829.00
+Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,4,849.00
+Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard without Balcony tipo kambarys,Viskas įskaičiuota,4,865.00
+Atlantic El Tope,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard without Balcony tipo kambarys,Viskas įskaičiuota,3,869.00
 Reef Oasis Blue Bay,"Paša Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,3,809.00
 Reef Oasis Blue Bay,"Paša Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,825.00
 Reef Oasis Blue Bay,"Paša Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium tipo kambarys,Viskas įskaičiuota,3,835.00
@@ -756,19 +756,19 @@ Pickalbatros Royal Albatros Moderna,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2
 Pickalbatros Royal Albatros Moderna,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,865.00
 Pickalbatros Royal Albatros Moderna,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,899.00
 Pickalbatros Royal Albatros Moderna,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Junior Suite Pool View tipo kambarys,Viskas įskaičiuota,3,925.00
-Novotel Beach,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,819.00
-Novotel Beach,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Viskas įskaičiuota,3,855.00
-Novotel Beach,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai,3,859.00
-Novotel Beach,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Pusryčiai,3,905.00
-Novotel Beach,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai ir vakarienė,3,909.00
-Sporthotel Kitz,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Standard Mountain View tipo kambarys,Pusryčiai,7,819.00
-Sporthotel Kitz,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Standard Mountain View tipo kambarys,Pusryčiai ir vakarienė,7,885.00
-Alpenblick,"Mairhofenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,825.00
-Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Pool View tipo kambarys,Pusryčiai,4,825.00
-Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Sea View tipo kambarys,Pusryčiai,4,835.00
-Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Pool View tipo kambarys,Pusryčiai ir vakarienė,4,849.00
-Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Deluxe tipo kambarys,Pusryčiai,4,855.00
-Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Sea View tipo kambarys,Pusryčiai ir vakarienė,4,859.00
+,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,819.00
+,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Viskas įskaičiuota,3,855.00
+,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,859.00
+,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Viskas įskaičiuota,3,905.00
+,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,909.00
+Sporthotel Kitz,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Standard Mountain View tipo kambarys,Viskas įskaičiuota,7,819.00
+Sporthotel Kitz,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Standard Mountain View tipo kambarys,Viskas įskaičiuota,7,885.00
+Alpenblick,"Mairhofenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,7,825.00
+Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Pool View tipo kambarys,Viskas įskaičiuota,4,825.00
+Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Sea View tipo kambarys,Viskas įskaičiuota,4,835.00
+Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Pool View tipo kambarys,Viskas įskaičiuota,4,849.00
+Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Deluxe tipo kambarys,Viskas įskaičiuota,4,855.00
+Allegro Isora,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,1 Bedroom Apartment Sea View tipo kambarys,Viskas įskaičiuota,4,859.00
 Alua Atlantico Golf Resort,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,4,829.00
 Alua Atlantico Golf Resort,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,839.00
 Alua Atlantico Golf Resort,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Family 1 Bedroom Sea View tipo kambarys,Viskas įskaičiuota,3,875.00
@@ -789,11 +789,11 @@ Pickalbatros Albatros Royal Grand Sharm,"Hadaba, Šarm aš Šeichas, Egiptas",20
 Pickalbatros Albatros Royal Grand Sharm,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,865.00
 Pickalbatros Albatros Royal Grand Sharm,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,7,1119.00
 Pickalbatros Albatros Royal Grand Sharm,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,7,1159.00
-Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Comfort tipo kambarys,Pusryčiai ir vakarienė,3,845.00
-Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,3,859.00
+Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Comfort tipo kambarys,Viskas įskaičiuota,3,845.00
+Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,859.00
 Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Comfort tipo kambarys,Viskas įskaičiuota,3,879.00
 Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,895.00
-Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Deluxe tipo kambarys,Pusryčiai ir vakarienė,3,899.00
+Stella Di Mare Beach Hotel & Spa,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,899.00
 Sunrise Grand Select Arabian Beach Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,845.00
 Sunrise Grand Select Arabian Beach Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe Side Sea View tipo kambarys,Viskas įskaičiuota,3,869.00
 Sunrise Grand Select Arabian Beach Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe Swim-Up tipo kambarys,Viskas įskaičiuota,3,899.00
@@ -824,21 +824,21 @@ Sultan Gardens Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Sk
 Sultan Gardens Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,865.00
 Sultan Gardens Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family Suite tipo kambarys,Viskas įskaičiuota,3,895.00
 Sultan Gardens Resort,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Jacuzzi tipo kambarys,Viskas įskaičiuota,3,929.00
-Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,4,879.00
-Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,4,899.00
-Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,"Pusryčiai, pietūs, vakarienė",4,939.00
+Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,879.00
+Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,899.00
+Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,939.00
 Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,1005.00
-Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1155.00
+Best Jacaranda,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1155.00
 Coral Sea Sensatori,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,3,879.00
 Coral Sea Sensatori,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,3,895.00
 Coral Sea Sensatori,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Jacuzzi tipo kambarys,Viskas įskaičiuota,3,919.00
 Coral Sea Sensatori,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Swim-Up tipo kambarys,Viskas įskaičiuota,3,929.00
 Coral Sea Sensatori,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,939.00
-Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Economy B tipo kambarys,Pusryčiai,4,879.00
-Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Economy B tipo kambarys,Pusryčiai ir vakarienė,4,905.00
-Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Sea View B tipo kambarys,Pusryčiai,4,939.00
-Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Suite B tipo kambarys,Pusryčiai,4,955.00
-Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Sea View B tipo kambarys,Pusryčiai ir vakarienė,4,965.00
+Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Economy B tipo kambarys,Viskas įskaičiuota,4,879.00
+Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Economy B tipo kambarys,Viskas įskaičiuota,4,905.00
+Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Sea View B tipo kambarys,Viskas įskaičiuota,4,939.00
+Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Suite B tipo kambarys,Viskas įskaičiuota,4,955.00
+Iberostar Ole Tropical Tenerife,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Sea View B tipo kambarys,Viskas įskaičiuota,4,965.00
 Reef Oasis Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Garden View tipo kambarys,Viskas įskaičiuota,3,879.00
 Reef Oasis Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Superior Pool View tipo kambarys,Viskas įskaičiuota,3,895.00
 Reef Oasis Beach Resort,"Hadaba, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,4.0,Sea View tipo kambarys,Viskas įskaičiuota,3,899.00
@@ -859,52 +859,52 @@ Rixos Golf Villas & Suites,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-
 Rixos Golf Villas & Suites,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,7,1295.00
 Rixos Golf Villas & Suites,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,1,1489.00
 Rixos Golf Villas & Suites,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Diplomatic Suite tipo kambarys,Viskas įskaičiuota,3,1599.00
-Piramides Apartments,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Studio tipo kambarys,,7,919.00
-Piramides Apartments,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,1 Bedroom Apartment tipo kambarys,,7,1059.00
+Piramides Apartments,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Studio tipo kambarys,Viskas įskaičiuota,7,919.00
+Piramides Apartments,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,1 Bedroom Apartment tipo kambarys,Viskas įskaičiuota,7,1059.00
 Piramides Apartments,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Studio tipo kambarys,Viskas įskaičiuota,7,1145.00
-,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Classic tipo kambarys,Viskas įskaičiuota,3,925.00
-,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,989.00
-,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Classic tipo kambarys,Viskas įskaičiuota,7,1349.00
-,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Connection Room tipo kambarys,Viskas įskaičiuota,3,1485.00
-,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,7,1499.00
-,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Pusryčiai,7,925.00
-,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Pusryčiai,7,955.00
-,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,7,1085.00
-,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1119.00
+Baron Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Classic tipo kambarys,Viskas įskaičiuota,3,925.00
+Baron Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,989.00
+Baron Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Classic tipo kambarys,Viskas įskaičiuota,7,1349.00
+Baron Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Connection Room tipo kambarys,Viskas įskaičiuota,3,1485.00
+Baron Resort,"Ras Nosranis, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,7,1499.00
+Dom Pedro Garajau,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,7,925.00
+Dom Pedro Garajau,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,955.00
+Dom Pedro Garajau,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,7,1085.00
+Dom Pedro Garajau,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,3.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1119.00
 Meraki Resort Sharm el Sheikh,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Gypster Pool View tipo kambarys,Viskas įskaičiuota,3,925.00
 Meraki Resort Sharm el Sheikh,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Livin It Up Jacuzzi Suite tipo kambarys,Viskas įskaičiuota,3,1159.00
 Meraki Resort Sharm el Sheikh,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Jacuzzi Suite tipo kambarys,Viskas įskaičiuota,3,1185.00
 Meraki Resort Sharm el Sheikh,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Gypster Pool View tipo kambarys,Viskas įskaičiuota,7,1415.00
 Meraki Resort Sharm el Sheikh,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Gypster Pool View tipo kambarys,Viskas įskaičiuota,1,1629.00
-Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai,7,949.00
-Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai ir vakarienė,7,985.00
-Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Premium tipo kambarys,"Pusryčiai, pietūs, vakarienė",7,1019.00
-Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1045.00
-Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai,7,1069.00
-Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,7,949.00
-Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai,7,989.00
-Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1069.00
-Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1115.00
-Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-12,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,1,1195.00
-Playaolid Suites & Apartments,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Family Suite tipo kambarys,Pusryčiai ir vakarienė,3,955.00
+Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,7,949.00
+Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,7,985.00
+Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,7,1019.00
+Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1045.00
+Checkin Concordia Playa,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,7,1069.00
+Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,949.00
+Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,989.00
+Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1069.00
+Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1115.00
+Quinta do Estreito,"Estreito de Camara de Lobos, Madeira, Portugalija",2024-02-12,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,1,1195.00
+Playaolid Suites & Apartments,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Family Suite tipo kambarys,Viskas įskaičiuota,3,955.00
 Playaolid Suites & Apartments,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Family Suite tipo kambarys,Viskas įskaičiuota,3,999.00
-Playaolid Suites & Apartments,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Family Suite tipo kambarys,Pusryčiai ir vakarienė,7,1429.00
+Playaolid Suites & Apartments,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Family Suite tipo kambarys,Viskas įskaičiuota,7,1429.00
 Playaolid Suites & Apartments,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,3.0,Family Suite tipo kambarys,Viskas įskaičiuota,7,1525.00
-H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,965.00
-H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool or Ocean View tipo kambarys,Pusryčiai ir vakarienė,3,999.00
-H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Privilege tipo kambarys,Pusryčiai ir vakarienė,3,1059.00
+H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,965.00
+H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool or Ocean View tipo kambarys,Viskas įskaičiuota,3,999.00
+H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Privilege tipo kambarys,Viskas įskaičiuota,3,1059.00
 H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,1069.00
 H10 Las Palmeras,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool or Ocean View tipo kambarys,Viskas įskaičiuota,3,1105.00
-Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,,7,969.00
-Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Pusryčiai,7,1005.00
-Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,,7,1019.00
-Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Pusryčiai,7,1055.00
-Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,,7,1095.00
-Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Bay View tipo kambarys,Pusryčiai,7,975.00
-Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Bay View tipo kambarys,Pusryčiai,7,975.00
-Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Club Sea View tipo kambarys,Pusryčiai,7,1015.00
-Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,7,1045.00
-Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Bay View tipo kambarys,Pusryčiai ir vakarienė,7,1125.00
+Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,7,969.00
+Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,7,1005.00
+Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1019.00
+Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1055.00
+Cais da Oliveira,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,7,1095.00
+Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Bay View tipo kambarys,Viskas įskaičiuota,7,975.00
+Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Bay View tipo kambarys,Viskas įskaičiuota,7,975.00
+Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Club Sea View tipo kambarys,Viskas įskaičiuota,7,1015.00
+Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,7,1045.00
+Dom Pedro Madeira,"Mašikas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Bay View tipo kambarys,Viskas įskaičiuota,7,1125.00
 Rixos Radamis Blue Planet,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,975.00
 Rixos Radamis Blue Planet,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,1149.00
 Rixos Radamis Blue Planet,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,3,1165.00
@@ -920,16 +920,16 @@ Swissotel Sharm El Sheikh,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18
 Swissotel Sharm El Sheikh,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family Aqua tipo kambarys,Viskas įskaičiuota,3,1125.00
 Swissotel Sharm El Sheikh,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Family Suite Aqua tipo kambarys,Viskas įskaičiuota,3,1165.00
 Swissotel Sharm El Sheikh,"Naama Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Swiss Select tipo kambays,Viskas įskaičiuota,3,1229.00
-Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard with Balcony tipo kambarys,Pusryčiai,7,989.00
-Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai,7,1005.00
-Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,7,1029.00
-Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Pusryčiai,7,1055.00
-Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1185.00
-Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,995.00
-Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,7,1019.00
-Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Pusryčiai,7,1045.00
-Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Pusryčiai,7,1069.00
-Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Suite tipo kambarys,Pusryčiai,7,1085.00
+Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard with Balcony tipo kambarys,Viskas įskaičiuota,7,989.00
+Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,7,1005.00
+Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1029.00
+Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,7,1055.00
+Rocamar,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1185.00
+Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,995.00
+Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1019.00
+Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,7,1045.00
+Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1069.00
+Suite Hotel Jardins da Ajuda,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Suite tipo kambarys,Viskas įskaičiuota,7,1085.00
 Rixos Sharm El Sheikh,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,999.00
 Rixos Sharm El Sheikh,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,1035.00
 Rixos Sharm El Sheikh,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,1169.00
@@ -945,23 +945,23 @@ Sunrise White Hills,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skry
 Sunrise White Hills,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe Swim-Up Pool View tipo kambarys,Viskas įskaičiuota,3,1039.00
 Sunrise White Hills,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Junior Swim Up tipo kambarys,Viskas įskaičiuota,3,1069.00
 Sunrise White Hills,"Šarks Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe Jacuzzi tipo kambarys,Viskas įskaičiuota,7,1539.00
-Erhart,"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1015.00
-Erhart,"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1135.00
-Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location A tipo kambarys,Pusryčiai,4,1015.00
-Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location A tipo kambarys,Pusryčiai ir vakarienė,4,1059.00
-Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location B tipo kambarys,Pusryčiai,4,1065.00
-Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Star Prestige Side Sea View A tipo kamb.,Pusryčiai,4,1069.00
-Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location B tipo kambarys,Pusryčiai ir vakarienė,4,1109.00
-Lindenhof,"Gastein Valley, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Classic tipo kambarys,Pusryčiai,7,1019.00
-Lindenhof,"Gastein Valley, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Family tipo kambarys,Pusryčiai,7,1249.00
-Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,,7,1019.00
-Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Pusryčiai,7,1055.00
-Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,,7,1095.00
-Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Pusryčiai,7,1125.00
-Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,,7,1165.00
-Gruner Baum,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,7,1029.00
-Gruner Baum,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,7,1245.00
-Gruner Baum,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,1,2219.00
+Erhart,"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1015.00
+Erhart,"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1135.00
+Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location A tipo kambarys,Viskas įskaičiuota,4,1015.00
+Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location A tipo kambarys,Viskas įskaičiuota,4,1059.00
+Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location B tipo kambarys,Viskas įskaičiuota,4,1065.00
+Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Star Prestige Side Sea View A tipo kamb.,Viskas įskaičiuota,4,1069.00
+Iberostar Bouganville Playa,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standard Priority Location B tipo kambarys,Viskas įskaičiuota,4,1109.00
+Lindenhof,"Gastein Valley, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Classic tipo kambarys,Viskas įskaičiuota,7,1019.00
+Lindenhof,"Gastein Valley, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,3.0,Family tipo kambarys,Viskas įskaičiuota,7,1249.00
+Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,7,1019.00
+Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,7,1055.00
+Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1095.00
+Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1125.00
+Royal Orchid,"Kanisas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,7,1165.00
+Gruner Baum,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,7,1029.00
+Gruner Baum,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,7,1245.00
+Gruner Baum,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,1,2219.00
 Iberostar Las Dalias,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View B tipo kambarys,Viskas įskaičiuota,3,1039.00
 Iberostar Las Dalias,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard B tipo kambarys,Viskas įskaičiuota,7,1685.00
 Iberostar Las Dalias,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Sea View A tipo kambarys,Viskas įskaičiuota,7,1709.00
@@ -972,407 +972,168 @@ Rixos Premium Seagate,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skry
 Rixos Premium Seagate,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,3,1079.00
 Rixos Premium Seagate,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,3,1115.00
 Rixos Premium Seagate,"Nabk Bėjus, Šarm aš Šeichas, Egiptas",2024-02-18,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Viskas įskaičiuota,3,1185.00
-H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,4,1045.00
-H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,3,1065.00
-H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Pusryčiai ir vakarienė,3,1129.00
-H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Pusryčiai ir vakarienė,4,1139.00
+H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,4,1045.00
+H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,1065.00
+H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,3,1129.00
+H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,4,1139.00
 H10 Gran Tinerfe,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,3,1185.00
-Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,4,1049.00
-Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe Sea Side tipo kambarys,Pusryčiai,4,1119.00
-Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,4,1235.00
-Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe Sea Side tipo kambarys,Pusryčiai ir vakarienė,4,1305.00
-Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,One Bedroom Suite Lateral Sea View tipo kambarys,Pusryčiai,4,1359.00
-Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1065.00
-Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,7,1125.00
-Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1225.00
-Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1289.00
+Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,4,1049.00
+Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe Sea Side tipo kambarys,Viskas įskaičiuota,4,1119.00
+Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,4,1235.00
+Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Deluxe Sea Side tipo kambarys,Viskas įskaičiuota,4,1305.00
+Gran Melia Palacio de Isora,"Gija de Isora, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,One Bedroom Suite Lateral Sea View tipo kambarys,Viskas įskaičiuota,4,1359.00
+Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1065.00
+Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1125.00
+Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1225.00
+Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1289.00
 Vila Gale Santa Cruz,"Santa Krusas, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1435.00
-Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Pusryčiai,3,1069.00
-Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Pusryčiai ir vakarienė,3,1105.00
-Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,3,1139.00
-Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,3,1175.00
+Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,1069.00
+Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,1105.00
+Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,1139.00
+Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,3,1175.00
 Princes Inspire,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,3,1225.00
-Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai,4,1075.00
-Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai ir vakarienė,4,1155.00
-Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Pusryčiai,4,1169.00
-Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Pusryčiai,4,1169.00
-Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Pusryčiai ir vakarienė,4,1249.00
-Lisabona,Portugalija,2024-02-17,Skrydis,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Pusryčiai,5,1079.10
-Lisabona,Portugalija,2024-02-17,Skrydis,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Pusryčiai,5,1079.10
-Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,,7,1099.00
-Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Pusryčiai,7,1129.00
-Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Pusryčiai ir vakarienė,7,1205.00
-Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,,7,1205.00
-Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Pusryčiai,7,1235.00
+Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,4,1075.00
+Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,4,1155.00
+Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Viskas įskaičiuota,4,1169.00
+Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Viskas įskaičiuota,4,1169.00
+Wyndham Dubai Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,1 Bedroom Suite tipo kambarys,Viskas įskaičiuota,4,1249.00
+Lisabona,Portugalija,2024-02-17,Skrydis,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Viskas įskaičiuota,5,1079.10
+Lisabona,Portugalija,2024-02-17,Skrydis,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Viskas įskaičiuota,5,1079.10
+Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Viskas įskaičiuota,7,1099.00
+Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Viskas įskaičiuota,7,1129.00
+Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Viskas įskaičiuota,7,1205.00
+Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Viskas įskaičiuota,7,1205.00
+Sky View,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,2.0,Superior Studio tipo kambarys,Viskas įskaičiuota,7,1235.00
 Bahia Principe Fantasia Tenerife,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,4,1105.00
 Bahia Principe Fantasia Tenerife,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Viskas įskaičiuota,4,1139.00
 Bahia Principe Fantasia Tenerife,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,4,1175.00
 Bahia Principe Fantasia Tenerife,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Family Suite tipo kambarys,Viskas įskaičiuota,4,1209.00
 Bahia Principe Fantasia Tenerife,"Golf del Suras, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Family Suite Sea View tipo kambarys,Viskas įskaičiuota,4,1279.00
-MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Studio Standard tipo kambarys,,7,1139.00
-MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Studio Panorama tipo kambarys,,7,1209.00
-MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standard Apartment tipo kambarys,,7,1249.00
-MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Apartment Panorama tipo kambarys,,7,1325.00
-MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Studio Standard tipo kambarys,Pusryčiai,7,1325.00
-Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,4,1149.00
-Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Sea View Top Floor tipo kambarys,Pusryčiai ir vakarienė,4,1179.00
-Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Suite Superior Sea View tipo kambarys,Pusryčiai ir vakarienė,4,1209.00
+MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Studio Standard tipo kambarys,Viskas įskaičiuota,7,1139.00
+MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Studio Panorama tipo kambarys,Viskas įskaičiuota,7,1209.00
+MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standard Apartment tipo kambarys,Viskas įskaičiuota,7,1249.00
+MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Studio Standard tipo kambarys,Viskas įskaičiuota,7,1325.00
+MONDI Hotel Bellevue Gastein,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Apartment Panorama tipo kambarys,Viskas įskaičiuota,7,1325.00
+Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,4,1149.00
+Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Sea View Top Floor tipo kambarys,Viskas įskaičiuota,4,1179.00
+Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Suite Superior Sea View tipo kambarys,Viskas įskaičiuota,4,1209.00
 Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,4,1359.00
 Roca Nivaria GH,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Sea View Top Floor tipo kambarys,Viskas įskaičiuota,4,1395.00
-Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,Pusryčiai,8,1159.00
-Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,Pusryčiai ir vakarienė,8,1315.00
-Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1405.00
+Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,8,1159.00
+Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,8,1315.00
+Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,8,1405.00
 Ramada Hotel & Suites by Wyndham Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Studio tipo kambarys,Viskas įskaičiuota,8,1449.00
-GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Pusryčiai,4,1175.00
-GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Pusryčiai ir vakarienė,4,1329.00
-GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Pusryčiai,7,1609.00
-GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Pusryčiai ir vakarienė,7,1879.00
-Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standart City View tipo kambarys,Pusryčiai,8,1185.00
-Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standard Sea Side tipo kambarys,Pusryčiai,8,1239.00
-Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standart City View tipo kambarys,Pusryčiai ir vakarienė,8,1389.00
-Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standard Sea Side tipo kambarys,Pusryčiai ir vakarienė,8,1455.00
-Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standart City View tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1579.00
-Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,7,1189.00
-Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Pusryčiai,7,1229.00
-Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Panoramic Sea View tipo kambarys,Pusryčiai,7,1289.00
-Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,7,1395.00
-Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1435.00
-Copthorne Hotel Sharjah,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior King Size Bed tipo kambarys,Pusryčiai,8,1195.00
-Copthorne Hotel Sharjah,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior King Size Bed tipo kambarys,Pusryčiai ir vakarienė,8,1309.00
-Copthorne Hotel Sharjah,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior King Size Bed tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1425.00
-Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,7,1195.00
-Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Pusryčiai,7,1255.00
-Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Lateral Sea View tipo kambarys,Pusryčiai,7,1345.00
-Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1395.00
-Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,7,1459.00
+GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Viskas įskaičiuota,4,1175.00
+GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Viskas įskaičiuota,4,1329.00
+GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Viskas įskaičiuota,7,1609.00
+GF Victoria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Senior Suite tipo kambarys,Viskas įskaičiuota,7,1879.00
+Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standart City View tipo kambarys,Viskas įskaičiuota,8,1185.00
+Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standard Sea Side tipo kambarys,Viskas įskaičiuota,8,1239.00
+Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standart City View tipo kambarys,Viskas įskaičiuota,8,1389.00
+Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standard Sea Side tipo kambarys,Viskas įskaičiuota,8,1455.00
+Lou' Lou' a Beach Resort,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standart City View tipo kambarys,Viskas įskaičiuota,8,1579.00
+Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,7,1189.00
+Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,7,1229.00
+Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Panoramic Sea View tipo kambarys,Viskas įskaičiuota,7,1289.00
+Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,7,1395.00
+Allegro Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,7,1435.00
+Copthorne Hotel Sharjah,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior King Size Bed tipo kambarys,Viskas įskaičiuota,8,1195.00
+Copthorne Hotel Sharjah,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior King Size Bed tipo kambarys,Viskas įskaičiuota,8,1309.00
+Copthorne Hotel Sharjah,"Šardža, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior King Size Bed tipo kambarys,Viskas įskaičiuota,8,1425.00
+Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1195.00
+Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,7,1255.00
+Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Lateral Sea View tipo kambarys,Viskas įskaičiuota,7,1345.00
+Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1395.00
+Pestana Casino Park Ocean & SPA Hotel,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,7,1459.00
 Pestana Ocean Bay All Inclusive Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Studio Pool View tipo kambarys,Viskas įskaičiuota,7,1205.00
-Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standart City View tipo kambarys,Pusryčiai,8,1205.00
-Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe Sea View tipo kambarys,Pusryčiai,8,1279.00
-Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Suite 1 Bedroom tipo kambarys,Pusryčiai,8,1329.00
-Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standart City View tipo kambarys,Pusryčiai ir vakarienė,8,1375.00
-Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe Sea View tipo kambarys,Pusryčiai ir vakarienė,8,1449.00
-Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio tipo kambarys,,7,1215.00
-Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio tipo kambarys,Pusryčiai,7,1289.00
-Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio Sea View tipo kambarys,,7,1329.00
-Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio Sea View tipo kambarys,Pusryčiai,7,1405.00
-Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio tipo kambarys,Pusryčiai ir vakarienė,7,1515.00
-Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,7,1219.00
-Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Pool View tipo kambarys,Pusryčiai,7,1339.00
-Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Family tipo kambarys,Pusryčiai,7,1385.00
-Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai,7,1385.00
-Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1425.00
-Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1225.00
-Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1249.00
-Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Teide View tipo kambarys,Pusryčiai,7,1259.00
-Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai,7,1259.00
-Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,7,1265.00
-Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Pusryčiai,4,1235.00
-Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Superior Front Sea View tipo kambarys,Pusryčiai,3,1289.00
-Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior Front Sea View tipo kambarys,Pusryčiai,4,1349.00
-Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Pusryčiai ir vakarienė,4,1385.00
-Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Pusryčiai,3,1399.00
-Rose Plaza Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Classic tipo kambarys,Pusryčiai,8,1239.00
-Rose Plaza Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Classic tipo kambarys,Pusryčiai ir vakarienė,8,1369.00
-Rose Plaza Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Classic tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1489.00
-Kruizas Nilu ir dvi Egipto sostinės,Egiptas,2024-02-06,Skrydis,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Pusryčiai,7,1241.10
-Kruizas Nilu ir dvi Egipto sostinės,Egiptas,2024-02-06,Skrydis,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Pusryčiai,7,1241.10
-Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1245.00
-Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1269.00
-Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standard Teide View tipo kambarys,Pusryčiai,7,1279.00
-Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,7,1285.00
-Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standard Teide View tipo kambarys,Pusryčiai ir vakarienė,7,1305.00
-Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1245.00
-Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Pusryčiai,7,1319.00
-Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1649.00
-Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Pusryčiai,7,1725.00
-Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,1,2835.00
-Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,7,1249.00
-Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Lateral Sea View tipo kambarys,Pusryčiai,7,1289.00
-Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai,7,1375.00
-Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Suite tipo kambarys,Pusryčiai,7,1455.00
-Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1485.00
-Citymax Al Barsha at the Mall,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,8,1259.00
-Citymax Al Barsha at the Mall,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1369.00
-Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Traditional tipo kambarys,Pusryčiai,7,1265.00
-Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Alpine Chic Room tipo kambarys,Pusryčiai,7,1325.00
-Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Traditional tipo kambarys,Pusryčiai ir vakarienė,7,1359.00
-Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Alpine Classic Room tipo kambarys,Pusryčiai,7,1379.00
-Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Alpine Chic Room tipo kambarys,Pusryčiai ir vakarienė,7,1419.00
-Jungtinis turas Dubajus(3n)-Ras Al Chaima(4n),"Dubajus - Ras Al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,8,1275.00
-Jungtinis turas Dubajus(3n)-Ras Al Chaima(4n),"Dubajus - Ras Al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1419.00
-Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,8,1279.00
-Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,8,1329.00
-Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,8,1449.00
-Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,8,1495.00
-Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1545.00
-Rose Park Hotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Pusryčiai,8,1289.00
-Rose Park Hotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,8,1425.00
-Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Pusryčiai,4,1309.00
-Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Pusryčiai ir vakarienė,4,1455.00
+Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standart City View tipo kambarys,Viskas įskaičiuota,8,1205.00
+Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,8,1279.00
+Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Suite 1 Bedroom tipo kambarys,Viskas įskaičiuota,8,1329.00
+Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standart City View tipo kambarys,Viskas įskaičiuota,8,1375.00
+Ramada by Wyndham Beach Hotel Ajman,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,8,1449.00
+Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio tipo kambarys,Viskas įskaičiuota,7,1215.00
+Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio tipo kambarys,Viskas įskaičiuota,7,1289.00
+Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1329.00
+Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio Sea View tipo kambarys,Viskas įskaičiuota,7,1405.00
+Pestana Casino Studios Serviced Apartments,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Deluxe Studio tipo kambarys,Viskas įskaičiuota,7,1515.00
+Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1219.00
+Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,7,1339.00
+Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,7,1385.00
+Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1385.00
+Pestana Carlton Madeira Premium Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1425.00
+Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1225.00
+Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1249.00
+Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Teide View tipo kambarys,Viskas įskaičiuota,7,1259.00
+Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,7,1259.00
+Blue Sea Puerto Resort,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1265.00
+Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Viskas įskaičiuota,4,1235.00
+Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Superior Front Sea View tipo kambarys,Viskas įskaičiuota,3,1289.00
+Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior Front Sea View tipo kambarys,Viskas įskaičiuota,4,1349.00
+Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Superior Side Sea View tipo kambarys,Viskas įskaičiuota,4,1385.00
+Vincci Seleccion La Plantacion del Sur,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,3,1399.00
+Rose Plaza Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Classic tipo kambarys,Viskas įskaičiuota,8,1239.00
+Rose Plaza Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Classic tipo kambarys,Viskas įskaičiuota,8,1369.00
+Rose Plaza Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Classic tipo kambarys,Viskas įskaičiuota,8,1489.00
+Kruizas Nilu ir dvi Egipto sostinės,Egiptas,2024-02-06,Skrydis,,Standartinis kambarys (Dvivietis kambarys su dvigule lova),Viskas įskaičiuota,7,1241.10
+Kruizas Nilu ir dvi Egipto sostinės,Egiptas,2024-02-06,Skrydis,,Standartinis kambarys (Dvivietis kambarys su atskiromis lovomis),Viskas įskaičiuota,7,1241.10
+Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1245.00
+Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1269.00
+Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standard Teide View tipo kambarys,Viskas įskaičiuota,7,1279.00
+Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1285.00
+Blue Sea Interpalace,"Puerto de la Krusas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standard Teide View tipo kambarys,Viskas įskaičiuota,7,1305.00
+Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1245.00
+Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,7,1319.00
+Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1649.00
+Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,7,1725.00
+Cella Central Historic Boutique Hotel,"Celis prie Zė-Kaprunas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,2835.00
+Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1249.00
+Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Lateral Sea View tipo kambarys,Viskas įskaičiuota,7,1289.00
+Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,1375.00
+Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Suite tipo kambarys,Viskas įskaičiuota,7,1455.00
+Saccharum,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1485.00
+Citymax Al Barsha at the Mall,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1259.00
+Citymax Al Barsha at the Mall,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1369.00
+Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Traditional tipo kambarys,Viskas įskaičiuota,7,1265.00
+Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Alpine Chic Room tipo kambarys,Viskas įskaičiuota,7,1325.00
+Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Traditional tipo kambarys,Viskas įskaičiuota,7,1359.00
+Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Alpine Classic Room tipo kambarys,Viskas įskaičiuota,7,1379.00
+Impuls Tirol,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Alpine Chic Room tipo kambarys,Viskas įskaičiuota,7,1419.00
+Jungtinis turas Dubajus(3n)-Ras Al Chaima(4n),"Dubajus - Ras Al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1275.00
+Jungtinis turas Dubajus(3n)-Ras Al Chaima(4n),"Dubajus - Ras Al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1419.00
+Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,8,1279.00
+Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,8,1329.00
+Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,8,1449.00
+Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,8,1495.00
+Wyndham Garden Ajman Corniche,"Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,8,1545.00
+Rose Park Hotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,8,1289.00
+Rose Park Hotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,8,1425.00
+Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Viskas įskaičiuota,4,1309.00
+Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Viskas įskaičiuota,4,1455.00
 Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Viskas įskaičiuota,4,1709.00
-Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Pusryčiai,7,1849.00
-Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Pusryčiai ir vakarienė,7,2099.00
-Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,Pusryčiai,8,1315.00
-Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,,8,1355.00
-Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,Pusryčiai ir vakarienė,8,1429.00
-Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1649.00
+Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Viskas įskaičiuota,7,1849.00
+Iberostar Selection Anthelia,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standard Garden View B tipo kambarys,Viskas įskaičiuota,7,2099.00
+Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,Viskas įskaičiuota,8,1315.00
+Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,Viskas įskaičiuota,8,1355.00
+Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,Viskas įskaičiuota,8,1429.00
+Aloft Al Mina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Aloft tipo kambarys,Viskas įskaičiuota,8,1649.00
 Globales Tamaimo Tropical,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,3.0,1 Bedroom Apartment tipo kambarys,Viskas įskaičiuota,7,1319.00
 Globales Tamaimo Tropical,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,3.0,1 Bedroom Apartment tipo kambarys,Viskas įskaičiuota,7,1339.00
 Globales Tamaimo Tropical,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,3.0,1 Bedroom Apartment tipo kambarys,Viskas įskaičiuota,1,1929.00
 Globales Tamaimo Tropical,"Plaja de la Arena, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,3.0,1 Bedroom Apartment tipo kambarys,Viskas įskaičiuota,1,1985.00
-Jungtinis turas Dubajus(4n)-Fudžaira(3n),"Dubajus - Fudžaira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,8,1319.00
-Jungtinis turas Dubajus(4n)-Fudžaira(3n),"Dubajus - Fudžaira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1459.00
-Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,8,1339.00
-Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai,8,1389.00
-Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai,8,1389.00
-Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai ir vakarienė,8,1505.00
-Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Pusryčiai ir vakarienė,8,1505.00
-Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1339.00
-Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1389.00
-Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Pusryčiai,7,1479.00
-Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Pusryčiai ir vakarienė,7,1529.00
-Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,7,1539.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n),"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,8,1345.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n),"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1489.00
+Jungtinis turas Dubajus(4n)-Fudžaira(3n),"Dubajus - Fudžaira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1319.00
+Jungtinis turas Dubajus(4n)-Fudžaira(3n),"Dubajus - Fudžaira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1459.00
+Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,8,1339.00
+Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,8,1389.00
+Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,8,1389.00
+Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,8,1505.00
+Holiday Inn Dubai Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Premium tipo kambarys,Viskas įskaičiuota,8,1505.00
+Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1339.00
+Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1389.00
+Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,7,1479.00
+Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,7,1529.00
+Vulcano,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1539.00
+Jungtinis turas Dubajus(4n)-Abu Dabis(3n),"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1345.00
+Jungtinis turas Dubajus(4n)-Abu Dabis(3n),"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1489.00
 Calheta Beach,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Suite tipo kambarys,Viskas įskaičiuota,7,1349.00
 Calheta Beach,"Kaljeta, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Suite tipo kambarys,Viskas įskaičiuota,1,2055.00
-Citymax Bur Dubai,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,8,1359.00
-Citymax Bur Dubai,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1475.00
-Bahia del Duque,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Pusryčiai,4,1385.00
-Bahia del Duque,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,4,1589.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n),"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,8,1385.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n),"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1529.00
-Pestana Village & Miramar Garden & Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Superior Studio tipo kambarys,Pusryčiai ir vakarienė,7,1389.00
-Pestana Village & Miramar Garden & Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Superior Studio tipo kambarys,"Pusryčiai, pietūs, vakarienė",7,1565.00
-Pestana Village & Miramar Garden & Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Suite tipo kambarys,Pusryčiai ir vakarienė,7,1819.00
-Pestana Village & Miramar Garden & Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,4.0,Suite tipo kambarys,"Pusryčiai, pietūs, vakarienė",7,1989.00
-Pestana Village & Miramar Garden & Ocean Resort,"Funšalis, Madeira, Portugalija",2024-02-12,Skrydis su bagažu,4.0,Superior Studio tipo kambarys,Pusryčiai ir vakarienė,1,2115.00
-Novotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai,8,1395.00
-Novotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai ir vakarienė,8,1585.00
-Novotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai,8,1615.00
-Novotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1775.00
-Novotel Al Barsha,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,8,1805.00
-Neuhaus Zillertal Resort,"Mairhofenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Comfort tipo kambarys,Pusryčiai ir vakarienė,7,1399.00
-H10 Atlantic Sunset,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1405.00
-H10 Atlantic Sunset,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standard Side Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1455.00
-H10 Atlantic Sunset,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1515.00
-H10 Atlantic Sunset,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Privilege tipo kambarys,Pusryčiai ir vakarienė,7,1665.00
-H10 Atlantic Sunset,"Plaja Paraisas, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,7,1709.00
-Triton Beach Hotel & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe Pool View tipo kambarys,Pusryčiai,1,1405.00
-Triton Beach Hotel & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Island View tipo kambarys,Pusryčiai,1,1459.00
-Triton Beach Hotel & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe Pool View tipo kambarys,Pusryčiai ir vakarienė,1,1565.00
-Triton Beach Hotel & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Island View tipo kambarys,Pusryčiai ir vakarienė,1,1615.00
-Triton Beach Hotel & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe Pool View tipo kambarys,"Pusryčiai, pietūs, vakarienė",1,1725.00
-Ayala Ocean View,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe tipo kambarys,Pusryčiai,1,1419.00
-Ayala Ocean View,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe with Balcony tipo kambarys,Pusryčiai,1,1475.00
-Ayala Ocean View,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe Sea View tipo kambarys,Pusryčiai,1,1535.00
-Ayala Ocean View,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,1,1589.00
-Ayala Ocean View,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,3.0,Deluxe with Balcony tipo kambarys,Pusryčiai ir vakarienė,1,1645.00
-Sonnenhotel Zum Stern,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Schlossalm tipo kambarys,Pusryčiai,7,1419.00
-Sonnenhotel Zum Stern,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Gamskarkogel tipo kambarys,Pusryčiai,7,1455.00
-Sonnenhotel Zum Stern,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Graukogel tipo kambarys,Pusryčiai,7,1529.00
-Sonnenhotel Zum Stern,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Schlossalm tipo kambarys,Pusryčiai ir vakarienė,7,1539.00
-Sonnenhotel Zum Stern,"Gastein Valley, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Gamskarkogel tipo kambarys,Pusryčiai ir vakarienė,7,1575.00
-Pestana Royal All Inclusive Ocean & SPA Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Classic tipo kambarys,Viskas įskaičiuota,7,1429.00
-Pestana Royal All Inclusive Ocean & SPA Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Deluxe Balcony tipo kambarys,Viskas įskaičiuota,7,1495.00
-Pestana Royal All Inclusive Ocean & SPA Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Deluxe Superior tipo kambarys,Viskas įskaičiuota,7,1539.00
-Pestana Royal All Inclusive Ocean & SPA Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Viskas įskaičiuota,7,1565.00
-Pestana Royal All Inclusive Ocean & SPA Resort,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Suite tipo kambarys,Viskas įskaičiuota,7,1659.00
-Barcelo Funchal Oldtown,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,7,1445.00
-Barcelo Funchal Oldtown,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai,7,1605.00
-Barcelo Funchal Oldtown,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Suite tipo kambarys,Pusryčiai,7,1889.00
-Barcelo Funchal Oldtown,"Funšalis, Madeira, Portugalija",2024-02-12,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,1,2295.00
-Barcelo Funchal Oldtown,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai,1,2579.00
-Sport Hotel Strass,"Mairhofenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,7,1465.00
-Sport Hotel Strass,"Mairhofenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,1,3115.00
-Chatur Playa Real Resort,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Family 1 Bedroom tipo kambarys,Viskas įskaičiuota,7,1485.00
-Chatur Playa Real Resort,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Viskas įskaičiuota,7,1485.00
-Chatur Playa Real Resort,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Family 1 Bedroom tipo kambarys,Viskas įskaičiuota,1,2259.00
-Jungtinis turas Dubajus(4n)-Fudžaira(3n),"Dubajus - Fudžaira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,8,1485.00
-Jungtinis turas Dubajus(4n)-Fudžaira(3n),"Dubajus - Fudžaira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1625.00
-Millennium Place Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,,8,1485.00
-Millennium Place Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai,8,1539.00
-Millennium Place Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe tipo kambarys,,8,1589.00
-Millennium Place Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Pusryčiai,8,1645.00
-Millennium Place Marina,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,4.0,Superior tipo kambarys,Pusryčiai ir vakarienė,8,1759.00
-Savoy Palace,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Avenue tipo kambarys,Pusryčiai,7,1485.00
-Savoy Palace,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Garden tipo kambarys,Pusryčiai,7,1525.00
-Savoy Palace,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Ocean View tipo kambarys,Pusryčiai,7,1565.00
-Savoy Palace,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Superior Ocean View tipo kambarys,Pusryčiai,7,1645.00
-Savoy Palace,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Avenue tipo kambarys,Pusryčiai ir vakarienė,7,1849.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n) - I,"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,8,1495.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n) - I,"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1635.00
-Vidamar Resorts Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Lateral Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1515.00
-Vidamar Resorts Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1585.00
-Vidamar Resorts Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Pusryčiai ir vakarienė,7,1665.00
-Vidamar Resorts Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Premium tipo kambarys,Pusryčiai ir vakarienė,7,1729.00
-Vidamar Resorts Madeira,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Lateral Sea View tipo kambarys,Pusryčiai ir vakarienė,1,2399.00
-Sheraton Abu Dhabi Hotel and Resort,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Classic Standard Sea View tipo kambarys,Pusryčiai,8,1519.00
-Sheraton Abu Dhabi Hotel and Resort,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Classic Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,8,1705.00
-Sheraton Abu Dhabi Hotel and Resort,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Classic Standard Sea View tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,1879.00
-Sheraton Abu Dhabi Hotel and Resort,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Classic Standard Sea View tipo kambarys,Viskas įskaičiuota,8,2035.00
-Sheraton Abu Dhabi Hotel and Resort,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Classic Standard Sea View tipo kambarys,Viskas įskaičiuota,8,2279.00
-Royal Savoy,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Pusryčiai,7,1525.00
-Royal Savoy,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Pusryčiai ir vakarienė,7,1835.00
-Royal Savoy,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Pusryčiai,7,1849.00
-Royal Savoy,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Pusryčiai,7,1929.00
-Royal Savoy,"Funšalis, Madeira, Portugalija",2024-02-19,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,"Pusryčiai, pietūs, vakarienė",7,2015.00
-Triton Prestige Seaview & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Standard with Balcony tipo kambarys,Pusryčiai ir vakarienė,1,1525.00
-Triton Prestige Seaview & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Deluxe Sea Side tipo kambarys,Pusryčiai ir vakarienė,1,1609.00
-Triton Prestige Seaview & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Standard with Balcony tipo kambarys,"Pusryčiai, pietūs, vakarienė",1,1685.00
-Triton Prestige Seaview & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Deluxe Sea View tipo kambarys,Pusryčiai ir vakarienė,1,1709.00
-Triton Prestige Seaview & Spa,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Deluxe Sea Side tipo kambarys,"Pusryčiai, pietūs, vakarienė",1,1769.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n) - II,"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,8,1539.00
-Jungtinis turas Dubajus(4n)-Abu Dabis(3n) - II,"Dubajus - Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1685.00
-Jardines de Nivaria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Suite Superior Sea View tipo kambarys,Pusryčiai,3,1539.00
-Jardines de Nivaria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Suite Superior Sea View tipo kambarys,Pusryčiai ir vakarienė,3,1659.00
-Jardines de Nivaria,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Suite Superior Sea View tipo kambarys,"Pusryčiai, pietūs, vakarienė",3,1719.00
-"Ajman Saray, a Luxury Collection Resort","Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Creek View tipo kambarys,Pusryčiai,8,1549.00
-"Ajman Saray, a Luxury Collection Resort","Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Pusryčiai,8,1635.00
-"Ajman Saray, a Luxury Collection Resort","Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Creek View tipo kambarys,Pusryčiai ir vakarienė,8,1815.00
-"Ajman Saray, a Luxury Collection Resort","Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Pusryčiai ir vakarienė,8,1899.00
-"Ajman Saray, a Luxury Collection Resort","Adžmanas, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Creek View tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,2029.00
-Bab Al Qasr Beach Resort & SPA,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai,8,1585.00
-Bab Al Qasr Beach Resort & SPA,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Premier tipo kambarys,Pusryčiai,8,1639.00
-Bab Al Qasr Beach Resort & SPA,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,8,1695.00
-Bab Al Qasr Beach Resort & SPA,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai ir vakarienė,8,1805.00
-Bab Al Qasr Beach Resort & SPA,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Premier tipo kambarys,Pusryčiai ir vakarienė,8,1859.00
-Bitacora,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,7,1595.00
-Bitacora,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Pusryčiai ir vakarienė,7,1679.00
-Bitacora,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,7,1949.00
-Bitacora,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,7,2025.00
-Bitacora,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai ir vakarienė,1,2479.00
-Canal Central Hotel,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,8,1655.00
-Canal Central Hotel,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Premium tipo kambarys,Pusryčiai,8,1829.00
-Canal Central Hotel,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,8,1879.00
-Canal Central Hotel,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Premium tipo kambarys,Pusryčiai ir vakarienė,8,2055.00
-Canal Central Hotel,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,"Pusryčiai, pietūs, vakarienė",8,2099.00
-Jungtinis turas Dubajus(3n)-Ras Al Chaima(4n),"Dubajus - Ras Al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,8,1659.00
-Jungtinis turas Dubajus(3n)-Ras Al Chaima(4n),"Dubajus - Ras Al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai ir vakarienė,8,1805.00
-DoubleTree by Hilton Resort & Spa Marjan Island,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,8,1665.00
-DoubleTree by Hilton Resort & Spa Marjan Island,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Bay Club Room Sea view tipo kambarys,Pusryčiai,8,1719.00
-DoubleTree by Hilton Resort & Spa Marjan Island,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,8,1885.00
-DoubleTree by Hilton Resort & Spa Marjan Island,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Bay Club Room Sea view tipo kambarys,Pusryčiai ir vakarienė,8,1935.00
-DoubleTree by Hilton Resort & Spa Marjan Island,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,8,2215.00
-Tyrolerhof (Solden),"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Double Room Flair Without Balcony tipo kambarys,Pusryčiai ir vakarienė,7,1705.00
-Tyrolerhof (Solden),"Zeldenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Double Room Flair Without Balcony tipo kambarys,Pusryčiai ir vakarienė,7,1735.00
-Tyrolerhof (Solden),"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Double Room Ambiente Without Balcony tipo kambarys,Pusryčiai ir vakarienė,7,1785.00
-Tyrolerhof (Solden),"Zeldenas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,4.0,Double Room Flair With Balcony tipo kambarys,Pusryčiai ir vakarienė,7,1785.00
-Tyrolerhof (Solden),"Zeldenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Double Room Ambiente Without Balcony tipo kambarys,Pusryčiai ir vakarienė,7,1815.00
-Gran Caribe Club Kawama,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,1,1715.00
-Gran Caribe Club Kawama,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Superior tipo kambarys,Viskas įskaičiuota,1,1775.00
-Rixos Marina Abu Dhabi,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai,8,1715.00
-Rixos Marina Abu Dhabi,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Superior Sea View tipo kambarys,Pusryčiai,8,1745.00
-Rixos Marina Abu Dhabi,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Sea View tipo kambarys,Pusryčiai,8,1805.00
-Rixos Marina Abu Dhabi,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Premium Sea View tipo kambarys,Pusryčiai,8,1865.00
-Rixos Marina Abu Dhabi,"Abu Dabis, Abu Dabis, JAE",2024-02-14,Skrydis su bagažu,5.0,Superior tipo kambarys,Pusryčiai ir vakarienė,8,1975.00
-Europe Villa Cortes,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Pusryčiai,4,1739.00
-Europe Villa Cortes,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Suite Sea View tipo kambarys,Pusryčiai,4,1909.00
-Europe Villa Cortes,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Pusryčiai ir vakarienė,4,1949.00
-Europe Villa Cortes,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Suite Sea View tipo kambarys,Pusryčiai ir vakarienė,4,2125.00
-Europe Villa Cortes,"Plaja de las Amerikasas, Tenerifė, Kanarų Salos",2024-02-02,Skrydis su bagažu,5.0,Junior Suite Sea View tipo kambarys,Pusryčiai,7,2599.00
-Melia Jardines del Teide,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite Ocean View tipo kambarys,Pusryčiai,7,1755.00
-Melia Jardines del Teide,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite Ocean View tipo kambarys,Pusryčiai ir vakarienė,7,1889.00
-Melia Jardines del Teide,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Junior Suite Ocean View tipo kambarys,Pusryčiai,7,1905.00
-Melia Jardines del Teide,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-09,Skrydis su bagažu,5.0,Junior Suite Ocean View tipo kambarys,Pusryčiai ir vakarienė,7,2039.00
-Melia Jardines del Teide,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-05,Skrydis su bagažu,5.0,Junior Suite Ocean View tipo kambarys,Viskas įskaičiuota,7,2245.00
-Zillertalerhof,"Mairhofenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Classic tipo kambarys,Pusryčiai ir vakarienė,7,1789.00
-Zillertalerhof,"Mairhofenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Comfort tipo kambarys,Pusryčiai ir vakarienė,7,1939.00
-Zillertalerhof,"Mairhofenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,7,2165.00
-Le Meridien Dubai Hotel & Conference Centre,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,,8,1795.00
-Le Meridien Dubai Hotel & Conference Centre,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,,8,1795.00
-Le Meridien Dubai Hotel & Conference Centre,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,8,1849.00
-Le Meridien Dubai Hotel & Conference Centre,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,8,1849.00
-Le Meridien Dubai Hotel & Conference Centre,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,8,2009.00
-Brisas del Caribe,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Sud tipo kambarys,Viskas įskaičiuota,1,1815.00
-Brisas del Caribe,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,1875.00
-Brisas del Caribe,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Tropical tipo kambarys,Viskas įskaičiuota,1,1939.00
-Gran Caribe Sunbeach,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,1,1825.00
-Gran Caribe Sunbeach,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Standard with Balcony tipo kambarys,Viskas įskaičiuota,1,1915.00
-Starfish Las Palmas,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,1,1839.00
-TUI BLUE Fieberbrunn,"Kicbiūhelis, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,DUO Room tipo kambarys,Pusryčiai ir vakarienė,7,1855.00
-TUI BLUE Fieberbrunn,"Kicbiūhelis, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,DUO Plus Room tipo kambarys,Pusryčiai ir vakarienė,7,1999.00
-Rixos Bab Al Bahr,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Garden View tipo kambarys,Viskas įskaičiuota,8,1879.00
-Rixos Bab Al Bahr,"Ras al Chaima, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Deluxe Pool View tipo kambarys,Viskas įskaičiuota,8,1915.00
-Occidental Arenas Blancas,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,1,1949.00
-Occidental Arenas Blancas,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,1,2369.00
-Occidental Arenas Blancas,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Suite tipo kambarys,Viskas įskaičiuota,1,2495.00
-Valentin El Patriarca Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Viskas įskaičiuota,1,1975.00
-Valentin El Patriarca Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Alegance Deluxe tipo kambarys,Viskas įskaičiuota,1,2519.00
-Valentin El Patriarca Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Alegance Suite tipo kambarys,Viskas įskaičiuota,1,2769.00
-Starfish Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,1,1989.00
-Starfish Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Superior tipo kambarys,Viskas įskaičiuota,1,2109.00
-Starfish Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Bungalow tipo kambarys,Viskas įskaičiuota,1,2175.00
-Barcelo Solymar,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,1,2015.00
-Barcelo Solymar,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Bungalow Superior tipo kambarys,Viskas įskaičiuota,1,2469.00
-Barcelo Solymar,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Superior Sea View tipo kambarys,Viskas įskaičiuota,1,2485.00
-Barcelo Solymar,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Bungalow Suite tipo kambarys,Viskas įskaičiuota,1,2535.00
-Villa Cuba (ex. Be Live Experience Varadero),"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Villa tipo kambarys,Viskas įskaičiuota,1,2015.00
-Villa Cuba (ex. Be Live Experience Varadero),"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,2019.00
-Dreams Jardin Tropical,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai,7,2059.00
-Dreams Jardin Tropical,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Club Sea View tipo kambarys,Pusryčiai,7,2149.00
-Dreams Jardin Tropical,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Pusryčiai ir vakarienė,7,2265.00
-Dreams Jardin Tropical,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Club Sea View tipo kambarys,Pusryčiai ir vakarienė,7,2335.00
-Dreams Jardin Tropical,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,4.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,7,2679.00
-Memories Varadero Beach Resort,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,2109.00
-Memories Varadero Beach Resort,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Sense tipo kambarys,Viskas įskaičiuota,1,2185.00
-Memories Varadero Beach Resort,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Diamond Club tipo kambarys,Viskas įskaičiuota,1,2299.00
-Memories Varadero Beach Resort,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Sense Diamond Club tipo kambarys,Viskas įskaičiuota,1,2299.00
-Memories Varadero Beach Resort,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Suite Diamond Club tipo kambarys,Viskas įskaičiuota,1,2609.00
-Iberostar Playa Alameda,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,2119.00
-Iberostar Playa Alameda,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,1,2245.00
-Iberostar Playa Alameda,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,1,2259.00
-Iberostar Playa Alameda,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,1,2289.00
-Iberostar Playa Alameda,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Suite tipo kambarys,Viskas įskaičiuota,1,2329.00
-Melia Las Antillas,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Deluxe tipo kambarys,Viskas įskaičiuota,1,2169.00
-Melia Las Antillas,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Junior Suite Sea View tipo kambarys,Viskas įskaičiuota,1,2445.00
-Melia Peninsula Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Classic tipo kambarys,Viskas įskaičiuota,1,2169.00
-Melia Peninsula Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Family tipo kambarys,Viskas įskaičiuota,1,2459.00
-Melia Peninsula Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Premium tipo kambarys,Viskas įskaičiuota,1,2505.00
-Jungtinis turas Havana (3 n.) - Varaderas (kitos n.) - II,"Havana - Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,3.0,Standartinis kambarys,Pusryčiai,1,2175.00
-Iberostar Bella Vista Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,1,2195.00
-Iberostar Bella Vista Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standard Pool View tipo kambarys,Viskas įskaičiuota,1,2405.00
-Iberostar Bella Vista Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standard Sea View tipo kambarys,Viskas įskaičiuota,1,2435.00
-Iberostar Bella Vista Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Star Prestige Sea View tipo kambarys,Viskas įskaičiuota,1,2699.00
-Grand Memories Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Viskas įskaičiuota,1,2249.00
-Grand Memories Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Superior tipo kambarys,Viskas įskaičiuota,1,2309.00
-Grand Memories Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standard Diamond Club tipo kambarys,Viskas įskaičiuota,1,2435.00
-Grand Memories Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Junior Suite Sanctuary tipo kambarys,Viskas įskaičiuota,1,2495.00
-Grand Memories Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Suite Sanctuary tipo kambarys,Viskas įskaičiuota,1,2869.00
-Jungtinis turas Havana (3 n.) - Varaderas (kitos n.) - II,"Havana - Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,1,2299.00
-Iberostar Selection Sabila,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,5.0,Standard Star Prestige Side Sea View B tipo kamb.,Pusryčiai,7,2345.00
-Iberostar Selection Sabila,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,5.0,Standard Star Prestige Side Sea View B tipo kamb.,Pusryčiai ir vakarienė,7,2539.00
-Iberostar Selection Sabila,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,5.0,Standard Star Prestige Side Sea View B tipo kamb.,Viskas įskaičiuota,7,2829.00
-Iberostar Selection Sabila,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,5.0,Standard Star Prestige Side Sea View B tipo kamb.,Pusryčiai,1,3979.00
-Iberostar Selection Sabila,"Kosta Adechė, Tenerifė, Kanarų Salos",2024-02-21,Skrydis su bagažu,5.0,Standard Star Prestige Side Sea View B tipo kamb.,Pusryčiai ir vakarienė,1,4365.00
-Melia Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Classic tipo kambarys,Viskas įskaičiuota,1,2359.00
-Jungtinis turas Havana (3 n.) - Varaderas (kitos n.) - II,"Havana - Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standartinis kambarys,Pusryčiai,1,2459.00
-Sol Varadero Beach,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Superior tipo kambarys,Viskas įskaičiuota,1,2535.00
-Jungtinis turas Havana (3 n.) - Varaderas (kitos n.) - I,"Havana - Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,4.0,Standartinis kambarys,Pusryčiai,1,2559.00
-Melia Internacional Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Classic tipo kambarys,Viskas įskaičiuota,1,2569.00
-Melia Internacional Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Classic Sea View tipo kambarys,Viskas įskaičiuota,1,2799.00
-Melia Internacional Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Junior Suite The Level tipo kambarys,Viskas įskaičiuota,1,3779.00
-Melia Internacional Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Junior Suite Sea View The Level tipo kambarys,Viskas įskaičiuota,1,4755.00
-Alpine Palace,"Zalbachas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,7,2845.00
-Alpine Palace,"Zalbachas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai,7,2845.00
-Alpine Palace,"Zalbachas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai,7,3019.00
-Alpine Palace,"Zalbachas, Zalcburgas, Austrija",2024-02-03,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai,7,3019.00
-Alpine Palace,"Zalbachas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,5.0,Deluxe tipo kambarys,Pusryčiai ir vakarienė,7,3209.00
-Iberostar Selection Varadero,"Varaderas, Havana, Kuba",2024-02-18,Skrydis su bagažu,5.0,Standard Garden View tipo kambarys,Viskas įskaičiuota,1,3035.00
-Šri Lanka.,Šri Lanka,2024-02-09,Kelionė autobusu,5.0,Standartinis kambarys,Pusryčiai,1,3225.60
-Šri Lanka.,Šri Lanka,2024-02-09,Kelionė autobusu,5.0,Standartinis kambarys,Pusryčiai,1,3225.60
-Šri Lanka.,Šri Lanka,2024-02-11,Kelionė autobusu,5.0,Standartinis kambarys,Pusryčiai,1,3616.20
-Šri Lanka.,Šri Lanka,2024-02-11,Kelionė autobusu,5.0,Standartinis kambarys,Pusryčiai,1,3616.20
-Rixos Premium Dubai,"Džiumeira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai,8,3775.00
-Rixos Premium Dubai,"Džiumeira, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Junior Suite tipo kambarys,Pusryčiai ir vakarienė,8,4149.00
-Aqua Dome,"Zeldenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Junior Suite Freiraum tipo kambarys,Pusryčiai ir vakarienė,7,3939.00
-Aqua Dome,"Zeldenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Family Room Raumwunder tipo kambarys,Pusryčiai ir vakarienė,7,4219.00
-Aqua Dome,"Zeldenas, Zalcburgas, Austrija",2024-02-10,Skrydis su bagažu,4.0,Suite Wohntraum tipo kambarys,Pusryčiai ir vakarienė,7,4685.00
-Adaaran Club Rannalhi,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Standartinis kambarys,Viskas įskaičiuota,1,4039.00
-Atlantis The Palm,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Palm King tipo kambarys,Pusryčiai ir vakarienė,8,4295.00
-Atlantis The Palm,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Ocean Queen tipo kambarys,Pusryčiai ir vakarienė,8,4419.00
-Atlantis The Palm,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,5.0,Palm Queen tipo kambarys,Pusryčiai ir vakarienė,8,4669.00
-Adaaran Select Hudhuranfushi,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Deluxe Beach Villa tipo kambarys,,1,5349.00
-Adaaran Select Hudhuranfushi,"Kafu atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Sunset Beach Villa tipo kambarys,,1,5499.00
-Adaaran Select Meedhupparu,"Ra atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,4.0,Honeymoon Suite tipo kambarys,,1,7119.00
-Adaaran Prestige Water Villas,"Ra atolas, Malė, Maldyvai",2024-02-08,Skrydis su bagažu,5.0,Water Villa tipo kambarys,,1,7849.00
+Citymax Bur Dubai,"Dubajus, Dubajus, JAE",2024-02-14,Skrydis su bagažu,3.0,Standartinis kambarys,Viskas įskaičiuota,8,1359.00

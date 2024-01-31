@@ -25,7 +25,7 @@ load_more = WebDriverWait(driver, 20).until(ec.element_to_be_clickable((By.CSS_S
 load_more.click()
 time.sleep(2)
 scrolls_count = 0
-while scrolls_count < 40:
+while scrolls_count < 30:
     time.sleep(3)
     scroll_until_element = driver.find_element(By.XPATH,
                                                '/html/body/div[1]/div/div[2]/div/div[4]/div[1]/div/div/div/div/div/a/div/div[2]/span[1]')
@@ -78,41 +78,36 @@ for link in web_link:
         try:
             room_element = offer_element.find_element(By.CLASS_NAME, 'c-juEpcc')
             room = room_element.text if room_element else None
-            print(room)
         except NoSuchElementException:
             room = None
         try:
             nights_element = offer_element.find_element(By.CLASS_NAME, 'c-eaRLdk')
             nights = nights_element.text[0] if nights_element else None
-            print(nights)
         except NoSuchElementException:
             nights = None
         try:
             date_element = offer_element.find_element(By.CLASS_NAME, 'c-eaRLdk')
             date = date_element.text.split('\n')[1] if date_element else None
-            print(date)
         except NoSuchElementException:
             date = None
         try:
             price_element = offer_element.find_element(By.CLASS_NAME, 'c-bkJVKH')
             price = price_element.text if price_element else None
-            print(price)
         except NoSuchElementException:
             price = None
             print(f'Price element not found in: {full_link}')
         feeding = None
         try:
-            # feeding_element = offer_element.find_element(By.CLASS_NAME, 'c-kQzNuN').text
-            feeding_element = offer_element.find_element(By.CLASS_NAME, 'c-iljIzD').text
-            print(feeding_element)
-            if 'Pusryčiai ir vakarienė' in feeding_element:
+            feeding_element = offer_element.find_element(By.CLASS_NAME, 'c-fqaKYk').text.strip()
+            if 'Pusryčiai ir vakarienė' in feeding_element or '4 pusryčiai, 2 vakarienės' in feeding_element:
                 feeding = 'Pusryčiai ir vakarienė'
-            elif 'Viskas įskaičiuota' or 'viskas įskaičiuota' or 'Premium All Inclusive ' in feeding_element:
-                feeding = 'Viskas įskaičiuota'
             elif 'Pusryčiai, pietūs, vakarienė' in feeding_element:
                 feeding = 'Pusryčiai, pietūs, vakarienė'
-            elif 'Pusryčiai' or 'pusryčiai' in feeding_element:
+            elif 'Pusryčiai' in feeding_element or 'pusryčiai' in feeding_element:
                 feeding = 'Pusryčiai'
+            elif ('Viskas įskaičiuota' in feeding_element or 'viskas įskaičiuota' in feeding_element
+                  or 'Premium All Inclusive ' in feeding_element):
+                feeding = 'Viskas įskaičiuota'
         except NoSuchElementException:
             feeding = None
         trip_details = {
@@ -130,12 +125,10 @@ for link in web_link:
         rows_count += 1
         if rows_count % save_interval == 0:
             df = pd.DataFrame(trip_details_list)
-            # df.to_csv('csv/novaturas.csv', index=False)
-            df.to_csv('csv/novaturas1.csv', index=False)
+            df.to_csv('csv/novaturas.csv', index=False)
             print('Additional data has been added to .csv')
     time.sleep(2)
 df = pd.DataFrame(trip_details_list)
-# df.to_csv('csv/novaturas.csv', index=False)
-df.to_csv('csv/novaturas1.csv', index=False)
+df.to_csv('csv/novaturas.csv', index=False)
 print(df)
 driver.quit()
