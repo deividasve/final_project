@@ -60,11 +60,13 @@ for i in range(1, 11):
                     date_element = deal.find('strong', class_='visible-sm visible-xs mb5')
                 date = date_element.text.strip() if date_element else None
                 duration_nights_element = deal.find('div', class_='pull-left length')
-                duration_nights = duration_nights_element.find('em').text.strip().split()[0] if duration_nights_element else None
+                duration_nights = duration_nights_element.find('em').text.strip().split()[0] \
+                    if duration_nights_element else None
                 price_element = deal.find('div', class_='pull-left price')
                 price = price_element.find('span').text.strip().split()[0] if price_element else None
                 short_info_element = deal.find('span', class_='offers-description')
                 short_info = short_info_element.text.strip() if short_info_element else None
+                feeding = None
                 if 'su pusryčiais' in short_info:
                     feeding = 'Pusryčiai'
                 elif 'viskas įskaičiuota' in short_info:
@@ -73,8 +75,6 @@ for i in range(1, 11):
                     feeding = 'Pusryčiai ir vakarienė'
                 elif 'su pilnu maitinimu' in short_info:
                     feeding = 'Pusryčiai, pietūs, vakarienė'
-                else:
-                    feeding = None
                 trip_details = {
                     'Description': description,
                     'Destination': destination,
@@ -88,7 +88,7 @@ for i in range(1, 11):
                 }
                 trip_details_list.append(trip_details)
         return trip_details_list
-    a = scrape_links(url)
+    scrape_links(url)
 df = pd.DataFrame(trip_data)
 df.to_csv('csv/makalius.csv', index=False)
 print(df)
