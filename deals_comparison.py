@@ -46,3 +46,11 @@ plt.xlabel('Country')
 plt.ylabel('Price average')
 plt.show()
 
+isfiltruotas_df_egiptas = df[df['Country'] == 'Egiptas']
+grouped_egypt_by_season = isfiltruotas_df_egiptas.groupby(df['Season'])['Price']
+plt.figure(figsize=(12, 8))
+grouped_egypt_by_season.plot(kind='line')
+plt.title('Last minute price for Egypt by Season')
+plt.xlabel('Price')
+plt.ylabel('Season')
+plt.show()
