@@ -32,7 +32,7 @@ plt.figure(figsize=(12, 8))
 price_avg_per_provider.plot(kind='bar')
 plt.title('Last minute average trip price by Provider')
 plt.xlabel('Provider')
-plt.ylabel('Price')
+plt.ylabel('Price average')
 plt.show()
 
 # Grouping Price averages by Countries
@@ -43,5 +43,6 @@ plt.figure(figsize=(12, 8))
 price_avg_per_country.plot(kind='bar')
 plt.title('Last minute average trip price by Country')
 plt.xlabel('Country')
-plt.ylabel('Price')
+plt.ylabel('Price average')
 plt.show()
+
