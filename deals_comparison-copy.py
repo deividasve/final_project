@@ -36,21 +36,14 @@ df2['Country'] = df2['Destination'].str.split(', ').str[-1]
 # Merging DataFrames
 df = pd.concat([df1, df2], ignore_index=True)
 
-# Creating new 'Season' column by converting 'Month' column data based on value
+# Formatting data types and overriding existing .csv file with updated DataFrame
 df['Date'] = pd.to_datetime(df['Date'])
 df['Month'] = df['Date'].dt.month
-df.loc[(df['Month'] >= 3) & (df['Month'] <= 5), 'Season'] = 'Spring'
-df.loc[(df['Month'] >= 6) & (df['Month'] <= 8), 'Season'] = 'Summer'
-df.loc[(df['Month'] >= 9) & (df['Month'] <= 11), 'Season'] = 'Autumn'
-df.loc[~((df['Month'] >= 3) & (df['Month'] <= 11)), 'Season'] = 'Winter'
 df['Hotel Stars'] = pd.to_numeric(df['Hotel Stars'])
-
 df.to_csv('csv/deals_comparison-copy.csv', index=False)
 
-
-# Grouping Price averages by Providers
+# Last Minute Average Trip Price by Provider
 price_avg_per_provider = df.groupby('Provider')['Price'].mean()
-# Creating barplot for Average price by Provider
 plt.figure(figsize=(12, 8))
 price_avg_per_provider.plot(kind='bar', color='olive')
 plt.title('Last Minute Average Trip Price by Provider')
@@ -136,15 +129,11 @@ plt.ylabel('Average Price')
 plt.grid()
 plt.show()
 
-
-avg_price_by_month = df.groupby('Month, Price').mean()
-# print(avg_price_by_month)
-# aaa = avg_price_by_month.groupby('Provider').head()
-# print(aaa)
-# plt.figure(figsize=(10, 8))
-# avg_price_by_month.plot(kind='line')
-# plt.title('Average Price per Season by Provider')
-# plt.xlabel('Month')
-# plt.ylabel('Average Price')
-# plt.grid()
-# plt.show()
+# Average Price per Month by Provider
+plt.figure(figsize=(10, 8))
+sns.lineplot(x='Date', y='Price', data=df, hue='Provider')
+plt.title('Average Price per Month by Provider')
+plt.xlabel('Date')
+plt.ylabel('Average Price')
+plt.grid()
+plt.show()
