@@ -28,13 +28,13 @@ This is the main project file where all analysis were made. All visuals are cont
 
 ## Results
 
-Last Minute Average Trip Price by Provider:
-![image](https://github.com/deividasve/final_project/assets/156001818/0606bcd4-8252-42ab-92bc-aa9f8e9f4a4e)
-This graph shows that the most expensive place to visit is Sri Lanka (provider: "Novaturas"), Maldives (provider: "Novaturas") and Dominican Republic (provider: "Makalius").
-
 Average Trip Price by provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/a850ffc5-7d5a-45ae-8219-35f1a41d1c4f)
 According to this graph, "Makalius" offer cheaper last minute deals.
+
+Last Minute Average Trip Price by Provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/0606bcd4-8252-42ab-92bc-aa9f8e9f4a4e)
+This graph shows that the most expensive place to visit is Sri Lanka (provider: "Novaturas"), Maldives (provider: "Novaturas") and Dominican Republic (provider: "Makalius"), while cheapest offers are to Estonia (provider: "Makalius"), Poland (provider: "Novaturas") and France (provider: "Makalius").
 
 Average Price per Hotel Stars by Provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/a65272e1-fda3-461e-ae34-61191b7f0e6f)
@@ -46,10 +46,10 @@ This graph shows that price differences correlate the most with the count of nig
 
 Average Price per Date by Provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/c2dad4e4-8634-4550-8965-44b45461a686)
-
+In this graph, we can see that "Makalius" provides offers from February to June and at this time, offers for trips in May and June are the cheapest. Meanwhile, Novaturas offers trips from begining to the middle of February.
 
 
 
 ## Conclusion
 
-An analysis of the Last Minute Travel Offers shows that the site "Makalius" provides the most expensive offers. Next graph clearly shows that the most expensive last minute offer is to the Caribbean Islands, Mauritius Islands and The Dominican Republic. This is likely influenced by the distance, trip duration and means of transport to locations mentioned before. The last graph shows a that Last Minute Travel Offers are cheapest during the winter season, most likely due to cooler temperatures in all continent of the world (except Australia, which wasn't one of the offers).
+An analysis of the Last Minute Travel Offers shows that the site "Makalius" overall cheaper offers than "Novaturas". "Makalius" also has cheaper offers of same star rating hotels compared to its competitor "Novaturas". Our analysis shows that the most expensive place to visit is Sri Lanka (provider: "Novaturas"), Maldives (provider: "Novaturas") and Dominican Republic (provider: "Makalius"), while cheapest offers are to Estonia (provider: "Makalius"), Poland (provider: "Novaturas") and France (provider: "Makalius"). This is likely influenced by the distance, trip duration and means of transport to locations mentioned before. A weak correlation (0,14) between offer price and nights spent at a hotel was also found.
