@@ -50,37 +50,14 @@ df.to_csv('csv/deals_comparison-copy.csv', index=False)
 
 # Grouping Price averages by Providers
 price_avg_per_provider = df.groupby('Provider')['Price'].mean()
-# print(price_avg_per_provider)
 # Creating barplot for Average price by Provider
-# plt.figure(figsize=(12, 8))
-# price_avg_per_provider.plot(kind='bar')
-# plt.title('Last minute average trip price by Provider')
-# plt.xlabel('Provider')
-# plt.ylabel('Price average')
-# plt.show()
-
-# Grouping Price averages by Countries
-# price_avg_per_country = df.groupby('Country')['Price'].mean()
-# print(price_avg_per_country)
-
-# Creating barplot for Average price by Country
-# plt.figure(figsize=(12, 8))
-# price_avg_per_country.plot(kind='bar')
-# plt.title('Last minute average trip price by Country')
-# plt.xlabel('Country')
-# plt.ylabel('Price average')
-# plt.show()
-
-
-# isfiltruotas_df_egiptas = df[df['Country'] == 'Egiptas']
-# grouped_egypt_by_season = isfiltruotas_df_egiptas.groupby(df['Season'])['Price']
-# plt.figure(figsize=(12, 8))
-# grouped_egypt_by_season.plot(kind='line')
-# plt.title('Last minute price for Egypt by Season')
-# plt.xlabel('Price')
-# plt.ylabel('Season')
-# plt.show()
-
+plt.figure(figsize=(12, 8))
+price_avg_per_provider.plot(kind='bar', color='olive')
+plt.title('Last Minute Average Trip Price by Provider')
+plt.xlabel('Provider')
+plt.ylabel('Price average')
+# plt.xticks(rotation=90)
+plt.show()
 
 
 # A function that trims the ending of element name
@@ -90,30 +67,25 @@ def truncate_title(title, max_length=11):
     return title
 
 
-# 11.
 # Average Price per Country by Provider
-# df['Country'] = df['Country'].apply(truncate_title)
-# plt.figure(figsize=(10, 10))
-# sns.barplot(x='Country', y='Price', hue='Provider', data=df)
-# plt.title('Average Price per Country by Provider')
-# plt.xlabel('Country')
-# plt.ylabel('Average Price')
-# plt.xticks(rotation=45)
-# plt.grid()
-# plt.show()
-
-# Average Price per Hotel Stars by Provider
-avg_price_stars = df['Price'].mean()
-df['Hotel Stars'] = df['Hotel Stars'].replace('.0', '')
+df['Country'] = df['Country'].apply(truncate_title)
 plt.figure(figsize=(10, 10))
-sns.barplot(x='Hotel Stars', y='Price', hue='Provider', data=df)
-plt.title('Count of Deals per Hotel Rating by Provider')
-plt.xlabel('Hotel Stars')
+sns.barplot(x='Country', y='Price', hue='Provider', data=df)
+plt.title('Average Price per Country by Provider')
+plt.xlabel('Country')
 plt.ylabel('Average Price')
-# plt.axhline(avg_price_stars, color='seagreen', linestyle='dashed', label=f'Average: {avg_price_stars:.2f}')
+plt.xticks(rotation=45)
 plt.grid()
 plt.show()
 
+# Average Price per Hotel Stars by Provider
+plt.figure(figsize=(10, 8))
+sns.lineplot(x='Hotel Stars', y='Price', hue='Provider', data=df)
+plt.title('Average Price per Hotel Stars by Provider')
+plt.xlabel('Hotel Stars')
+plt.ylabel('Average Price')
+plt.grid()
+plt.show()
 
 # Percentage of Deals per Hotel Rating by Provider
 df = df.dropna(subset=['Hotel Stars'])
@@ -133,25 +105,20 @@ percentage_5stars = count_5stars_by_provider / total_counts_5stars * 100
 percentage_4stars = count_4stars_by_provider / total_counts_4stars * 100
 percentage_3stars = count_3stars_by_provider / total_counts_3stars * 100
 percentage_2stars = count_2stars_by_provider / total_counts_2stars * 100
-# plt.figure(figsize=(10, 10))
-# plt.subplot(2, 2, 1)
-# plt.pie(percentage_5stars, labels=percentage_5stars.index, startangle=90, autopct='%1.1f%%', colors='green')
-# plt.title('Percentage of 5-Star Hotel Deals by Provider')
-# plt.subplot(2, 2, 2)
-# plt.pie(percentage_4stars, labels=percentage_4stars.index, startangle=90, autopct='%1.1f%%')
-# plt.title('Percentage of 4-Star Hotel Deals by Provider')
-# plt.subplot(2, 2, 3)
-# plt.pie(percentage_3stars, labels=percentage_3stars.index, startangle=90, autopct='%1.1f%%')
-# plt.title('Percentage of 3-Star Hotel Deals by Provider')
-# plt.subplot(2, 2, 4)
-# plt.pie(percentage_2stars, labels=percentage_2stars.index, startangle=90, autopct='%1.1f%%', colors='green')
-# plt.title('Percentage of 2-Star Hotel Deals by Provider')
-# plt.show()
-
-# Count of Deals per Hotel Rating by Provider
-# plt.figure(figsize=(10, 10))
-# sns.lineplot(x='Hotel Stars', y='Price', hue='Provider', data=df)
-# plt.show()
+plt.figure(figsize=(10, 10))
+plt.subplot(2, 2, 1)
+plt.pie(percentage_5stars, labels=percentage_5stars.index, startangle=90, autopct='%1.1f%%', colors='green')
+plt.title('Percentage of 5-Star Hotel Deals by Provider')
+plt.subplot(2, 2, 2)
+plt.pie(percentage_4stars, labels=percentage_4stars.index, startangle=90, autopct='%1.1f%%')
+plt.title('Percentage of 4-Star Hotel Deals by Provider')
+plt.subplot(2, 2, 3)
+plt.pie(percentage_3stars, labels=percentage_3stars.index, startangle=90, autopct='%1.1f%%')
+plt.title('Percentage of 3-Star Hotel Deals by Provider')
+plt.subplot(2, 2, 4)
+plt.pie(percentage_2stars, labels=percentage_2stars.index, startangle=90, autopct='%1.1f%%', colors='green')
+plt.title('Percentage of 2-Star Hotel Deals by Provider')
+plt.show()
 
 # Correlation Matrix for price, hotel rating, season, nights
 correlation_matrix = df[['Price', 'Hotel Stars', 'Nights']].corr()
@@ -160,42 +127,24 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
 plt.title('Correlation Matrix for price, hotel rating, nights')
 plt.show()
 
-
-
-
-
-
-
-"""# 1. Top 10 Lowest Price Deals by Country
-
-# 2. Seasonal Average Price by Provider Grouped by Country
-
-# 3. Count of Deals per Hotel Rating by Provider
-
-# 4. Count of Stays by Provider
-
-# 5. Average Price per Stays by Provider
-
-# 6. Average Price per Hotel Rating by Provider
-
-# 7. The most popular Countries by Provider's Deals Count
-
-# 8. Percentange of Different Country Coverage by Provider
-
-# 9. Showcase Country Location Pins on Map by Provider
-
-# 10. Average Price per Season by Provider
-
-# 11. Average Price per Country by Provider"""
-
-"""
-# Correlation Matrix for price, hotel rating, season, nights
-correlation_matrix = df[['Price', 'Hotel Stars', 'Nights']].corr()
+# Average Price per Season by Provider
 plt.figure(figsize=(10, 8))
-sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
-plt.title('Correlation Matrix for price, hotel rating, nights')
+sns.lineplot(x='Month', y='Price', hue='Provider', data=df)
+plt.title('Average Price per Month by Provider')
+plt.xlabel('Month')
+plt.ylabel('Average Price')
+plt.grid()
 plt.show()
 
 
-
-"""
+avg_price_by_month = df.groupby('Month, Price').mean()
+# print(avg_price_by_month)
+# aaa = avg_price_by_month.groupby('Provider').head()
+# print(aaa)
+# plt.figure(figsize=(10, 8))
+# avg_price_by_month.plot(kind='line')
+# plt.title('Average Price per Season by Provider')
+# plt.xlabel('Month')
+# plt.ylabel('Average Price')
+# plt.grid()
+# plt.show()
