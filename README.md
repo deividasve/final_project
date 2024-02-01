@@ -11,6 +11,7 @@ The main goal of the project is to find out the price differences by different l
 
 In this project we used Python and CSV files showcasing our practical coding skills acquired at Vilnius Coding School.
 
+
 ## Applied knowledge:
 Used libraries: BeautifulSoup, Pandas, MatplotLib, SeaBorn, Selenium
 
@@ -26,11 +27,12 @@ deals_comparison.py
 
 This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
 
+
 ## Results
 
 Average Trip Price by provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/a850ffc5-7d5a-45ae-8219-35f1a41d1c4f)
-According to this graph, "Makalius" offer cheaper last minute deals.
+According to this graph, "Makalius" offers cheaper last minute deals.
 
 Last Minute Average Trip Price by Provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/0606bcd4-8252-42ab-92bc-aa9f8e9f4a4e)
@@ -47,7 +49,6 @@ This graph shows that price differences correlate the most with the count of nig
 Average Price per Date by Provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/c2dad4e4-8634-4550-8965-44b45461a686)
 In this graph, we can see that "Makalius" provides offers from February to June and at this time, offers for trips in May and June are the cheapest. Meanwhile, Novaturas offers trips from begining to the middle of February.
-
 
 
 ## Conclusion
