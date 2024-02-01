@@ -38,7 +38,6 @@ df = pd.concat([df1, df2], ignore_index=True)
 
 # Formatting data types and overriding existing .csv file with updated DataFrame
 df['Date'] = pd.to_datetime(df['Date'])
-df['Month'] = df['Date'].dt.month
 df['Hotel Stars'] = pd.to_numeric(df['Hotel Stars'])
 df.to_csv('csv/deals_comparison.csv', index=False)
 
@@ -118,15 +117,6 @@ correlation_matrix = df[['Price', 'Hotel Stars', 'Nights']].corr()
 plt.figure(figsize=(10, 8))
 sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
 plt.title('Correlation Matrix for Price, Hotel Stars, and Nights')
-plt.show()
-
-# Average Price per Season by Provider
-plt.figure(figsize=(10, 8))
-sns.lineplot(x='Month', y='Price', hue='Provider', data=df)
-plt.title('Average Price per Month by Provider')
-plt.xlabel('Month')
-plt.ylabel('Average Price')
-plt.grid()
 plt.show()
 
 # Average Price per Date by Provider
