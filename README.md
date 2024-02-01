@@ -30,24 +30,22 @@ This is the main project file where all analysis were made. All visuals are cont
 
 Last Minute Average Trip Price by Provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/0606bcd4-8252-42ab-92bc-aa9f8e9f4a4e)
+This graph shows that the most expensive place to visit is Sri Lanka (provider: "Novaturas"), Maldives (provider: "Novaturas") and Dominican Republic (provider: "Makalius").
 
-Aberage Trip Price per month by provider:
+Average Trip Price by provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/a850ffc5-7d5a-45ae-8219-35f1a41d1c4f)
+According to this graph, "Makalius" offer cheaper last minute deals.
 
 Average Price per Hotel Stars by Provider:
 ![image](https://github.com/deividasve/final_project/assets/156001818/a65272e1-fda3-461e-ae34-61191b7f0e6f)
-
-Percentage of n-Star Hotel Deals by Provider:
-![image](https://github.com/deividasve/final_project/assets/156001818/f8cf51fd-da4a-4e78-b573-f73955821356)
+Analysis of price differences by Hotel Stars and Providers shows that travel provider "Makalius" offers cheaper prices in all Hotel Stars categories.
 
 Correlation Matrix for price, hotel rating, season, nights:
 ![image](https://github.com/deividasve/final_project/assets/156001818/43753bb7-4472-4f86-98b9-f5a07eb7af39)
+This graph shows that price differences correlate the most with the count of nights spent at given hotel (0,14).
 
-Average Price per Month by Provider:
-![image](https://github.com/deividasve/final_project/assets/156001818/1b8f0a65-dd04-44da-842a-147f6fc0a048)
+Average Price per Date by Provider:
 
-
-Correlation Matrix for price, hotel rating, season, nights:
 
 
 ## Conclusion
