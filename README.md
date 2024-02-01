@@ -45,6 +45,8 @@ Correlation Matrix for price, hotel rating, season, nights:
 This graph shows that price differences correlate the most with the count of nights spent at given hotel (0,14).
 
 Average Price per Date by Provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/c2dad4e4-8634-4550-8965-44b45461a686)
+
 
 
 
