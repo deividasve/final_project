@@ -110,7 +110,7 @@ sns.barplot(x='Hotel Stars', y='Price', hue='Provider', data=df)
 plt.title('Count of Deals per Hotel Rating by Provider')
 plt.xlabel('Hotel Stars')
 plt.ylabel('Average Price')
-plt.axhline(avg_price_stars, color='seagreen', linestyle='dashed', label=f'Average: {avg_price_stars:.2f}')
+# plt.axhline(avg_price_stars, color='seagreen', linestyle='dashed', label=f'Average: {avg_price_stars:.2f}')
 plt.grid()
 plt.show()
 
