@@ -36,6 +36,9 @@ Function price_avg_per_country() provides this graph:
 
 Function grouped_egypt_by_season_and_provider() provides this graph:
 
+Correlation Matrix for price, hotel rating, season, nights:
+![img.png](img.png)
+
 ## Conclusion
 
 An analysis of the Last Minute Travel Offers shows that the site "Makalius" provides the most expensive offers. Next graph clearly shows that the most expensive last minute offer is to the Caribbean Islands, Mauritius Islands and The Dominican Republic. This is likely influenced by the distance, trip duration and means of transport to locations mentioned before. The last graph shows a that Last Minute Travel Offers are cheapest during the winter season, most likely due to cooler temperatures in all continent of the world (except Australia, which wasn't one of the offers).

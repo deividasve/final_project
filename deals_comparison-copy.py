@@ -136,16 +136,16 @@ percentage_2stars = count_2stars_by_provider / total_counts_2stars * 100
 # plt.figure(figsize=(10, 10))
 # plt.subplot(2, 2, 1)
 # plt.pie(percentage_5stars, labels=percentage_5stars.index, startangle=90, autopct='%1.1f%%', colors='green')
-# plt.title('Percentage of 5 Star Hotel Deals by Provider')
+# plt.title('Percentage of 5-Star Hotel Deals by Provider')
 # plt.subplot(2, 2, 2)
 # plt.pie(percentage_4stars, labels=percentage_4stars.index, startangle=90, autopct='%1.1f%%')
-# plt.title('Percentage of 4 Star Hotel Deals by Provider')
+# plt.title('Percentage of 4-Star Hotel Deals by Provider')
 # plt.subplot(2, 2, 3)
 # plt.pie(percentage_3stars, labels=percentage_3stars.index, startangle=90, autopct='%1.1f%%')
-# plt.title('Percentage of 3 Star Hotel Deals by Provider')
+# plt.title('Percentage of 3-Star Hotel Deals by Provider')
 # plt.subplot(2, 2, 4)
 # plt.pie(percentage_2stars, labels=percentage_2stars.index, startangle=90, autopct='%1.1f%%', colors='green')
-# plt.title('Percentage of 2 Star Hotel Deals by Provider')
+# plt.title('Percentage of 2-Star Hotel Deals by Provider')
 # plt.show()
 
 # Count of Deals per Hotel Rating by Provider
@@ -153,7 +153,12 @@ percentage_2stars = count_2stars_by_provider / total_counts_2stars * 100
 # sns.lineplot(x='Hotel Stars', y='Price', hue='Provider', data=df)
 # plt.show()
 
-
+# Correlation Matrix for price, hotel rating, season, nights
+correlation_matrix = df[['Price', 'Hotel Stars', 'Nights']].corr()
+plt.figure(figsize=(10, 8))
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
+plt.title('Correlation Matrix for price, hotel rating, nights')
+plt.show()
 
 
 
