@@ -24,17 +24,28 @@ Getting data from URL: https://www.novaturas.lt/paskutine-minute
 
 deals_comparison.py
 
-Merging all csv file data into one csv file deals_comparison.csv. This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
+This is the main project file where all analysis were made. All visuals are controlled by functions, which helps to separate all graphs in the code.
 
 ## Results
 
-Function price_avg_per_provider() provides this graph:
-![image](https://github.com/deividasve/final_project/assets/156001818/4cc1fbf4-ac44-4c61-b302-31d9e56cc0d4)
+Last Minute Average Trip Price by Provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/0606bcd4-8252-42ab-92bc-aa9f8e9f4a4e)
 
-Function price_avg_per_country() provides this graph:
-![image](https://github.com/deividasve/final_project/assets/156001818/b7a4453e-aa05-4c5c-97ff-496657543baa)
+Aberage Trip Price per month by provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/a850ffc5-7d5a-45ae-8219-35f1a41d1c4f)
 
-Function grouped_egypt_by_season_and_provider() provides this graph:
+Average Price per Hotel Stars by Provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/a65272e1-fda3-461e-ae34-61191b7f0e6f)
+
+Percentage of n-Star Hotel Deals by Provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/f8cf51fd-da4a-4e78-b573-f73955821356)
+
+Correlation Matrix for price, hotel rating, season, nights:
+![image](https://github.com/deividasve/final_project/assets/156001818/43753bb7-4472-4f86-98b9-f5a07eb7af39)
+
+Average Price per Month by Provider:
+![image](https://github.com/deividasve/final_project/assets/156001818/1b8f0a65-dd04-44da-842a-147f6fc0a048)
+
 
 Correlation Matrix for price, hotel rating, season, nights:
 
