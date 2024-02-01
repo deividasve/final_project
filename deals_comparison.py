@@ -129,11 +129,11 @@ plt.ylabel('Average Price')
 plt.grid()
 plt.show()
 
-# Average Price per Month by Provider
+# Average Price per Date by Provider
 plt.figure(figsize=(20, 8))
 sns.lineplot(x='Date', y='Price', data=df, hue='Provider', palette='spring', marker='o')
 sns.set_theme(font_scale=2)
-plt.title('Average Price per Month by Provider')
+plt.title('Average Price per Date by Provider')
 plt.xlabel('Date')
 plt.ylabel('Average Price')
 plt.grid()
