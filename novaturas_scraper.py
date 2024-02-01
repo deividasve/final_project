@@ -18,6 +18,7 @@ gecko_service.start()
 driver = webdriver.Firefox(service=gecko_service)
 driver.get(url)
 time.sleep(2)
+
 # Accepting cookie's policy and loading more page elements
 cookies = WebDriverWait(driver, 20).until(
     ec.element_to_be_clickable((By.CSS_SELECTOR, 'button.GDPR-Button:nth-child(1)')))
@@ -37,11 +38,13 @@ trip_details_list = []
 web_link = [link.get_attribute('href') for link in driver.find_elements(By.CSS_SELECTOR, '.c-foxNNj a')]
 save_interval = 1
 rows_count = 0
+
 # Starting a loop to access each of a website from web_link list and retrieve required data
 for link in web_link:
     full_link = f'{link}'
     driver.get(full_link)
     time.sleep(2)
+
     # Collecting easily accessible data: description, destination, hotel rating and travel type (transport)
     try:
         description_element = WebDriverWait(driver, 20).until(
@@ -61,6 +64,7 @@ for link in web_link:
         offer_transport = offer_transport_element.text
     except NoSuchElementException:
         offer_transport = None
+
     # Counting how many 'stars' does the hotel have
     html_code = driver.page_source
     soup = BeautifulSoup(html_code, 'html.parser')
@@ -70,6 +74,7 @@ for link in web_link:
         hotel_stars = len(hotel_stars_element)
     else:
         hotel_stars = None
+
     # Webpage has multiple deals thus it is required to use additional loop to gather required data of each deal
     try:
         offer_elements_block = WebDriverWait(driver, 10).until(
@@ -101,6 +106,7 @@ for link in web_link:
         except NoSuchElementException:
             price = None
             print(f'Price element not found in: {full_link}')
+
         # Standardizing 'feeding' element values
         feeding = None
         try:
@@ -116,6 +122,7 @@ for link in web_link:
                 feeding = 'Viskas įskaičiuota'
         except NoSuchElementException:
             feeding = None
+
         # Describing dictionary elements
         trip_details = {
             'Description': description,
@@ -129,6 +136,7 @@ for link in web_link:
             'Price': price,
         }
         trip_details_list.append(trip_details)
+
         # Updating a .csv file when scraping each deal
         rows_count += 1
         if rows_count % save_interval == 0:
@@ -136,6 +144,7 @@ for link in web_link:
             df.to_csv('csv/novaturas.csv', index=False)
             print('Additional data has been added to .csv')
     time.sleep(2)
+
 # Once again updating DataFrame and a .csv file after script is finished
 df = pd.DataFrame(trip_details_list)
 df.to_csv('csv/novaturas.csv', index=False)
